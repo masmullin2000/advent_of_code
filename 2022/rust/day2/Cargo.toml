@@ -1,0 +1,21 @@
+[package]
+name = "day2"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+utils = {path = "../utils"}
+
+[[bin]]
+name = "day2p1"
+path = "src/day2p1.rs"
+
+[[bin]]
+name = "day2p2"
+path = "src/day2p2.rs"
+
+[lib]
+name = "lib"
+path = "src/lib.rs"

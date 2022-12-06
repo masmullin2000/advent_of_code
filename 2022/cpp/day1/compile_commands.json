@@ -1,0 +1,30 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-O3",
+      "-I../utils/src/",
+      "-c",
+      "-o",
+      "out/day1p1.o",
+      "src/day1p1.cpp"
+    ],
+    "directory": "/code/learn/advent/2022/cpp/day1",
+    "file": "/code/learn/advent/2022/cpp/day1/src/day1p1.cpp",
+    "output": "/code/learn/advent/2022/cpp/day1/out/day1p1.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-O3",
+      "-I../utils/src/",
+      "-c",
+      "-o",
+      "out/utils.o",
+      "../utils/src/utils.cpp"
+    ],
+    "directory": "/code/learn/advent/2022/cpp/day1",
+    "file": "/code/learn/advent/2022/cpp/utils/src/utils.cpp",
+    "output": "/code/learn/advent/2022/cpp/day1/out/utils.o"
+  }
+]
