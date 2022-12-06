@@ -1,11 +1,4 @@
 const std = @import("std");
-const utils = @import("utils");
-
-const stdout = std.io.getStdOut().writer();
-var gpa = std.heap.GeneralPurposeAllocator(.{}){};
-const allocator = gpa.allocator();
-
-const ArrayList = std.ArrayList;
 
 pub fn get_score(mine: RPSChoice, theirs: RPSChoice) u8 {
     return mine.value() + mine.outcome(theirs);

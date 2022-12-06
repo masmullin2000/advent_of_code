@@ -19,3 +19,7 @@ path = "src/day2p2.rs"
 [lib]
 name = "lib"
 path = "src/lib.rs"
+
+[profile.release]
+lto = true
+strip = "symbols"

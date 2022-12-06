@@ -25,6 +25,7 @@ pub fn build(b: *std.build.Builder) void {
 
     const exe2 = b.addExecutable("day2p2", "src/day2p2.zig");
     exe2.addPackagePath("utils", "../utils/src/utils.zig");
+    //exe2.linkLibC();
     exe2.setTarget(target);
     exe2.setBuildMode(mode);
     exe2.install();

@@ -4,11 +4,17 @@ const lib = @import("lib.zig");
 
 const stdout = std.io.getStdOut().writer();
 
+var gpa = std.heap.GeneralPurposeAllocator(.{}){};
+const allocator = gpa.allocator();
+
 pub fn main() !void {
-    var lines = try utils.get_lines("input");
+    var lines = try utils.get_lines("input", allocator);
+    defer _ = lines.deinit();
+
     var rc: u64 = 0;
     for (lines.items) |line| {
         rc += get_score_line(line);
+        allocator.free(line);
     }
 
     try stdout.print("Total: {d}\n", .{rc});
