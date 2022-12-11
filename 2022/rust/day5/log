@@ -1,0 +1,5011 @@
+0:LNWTD
+1:CPH
+2:WPHNDGMJ
+3:CWSNTQL
+4:PHCN
+5:THNDMWQB
+6:MBRJGSL
+7:ZNWGVBRT
+8:WGDNPL
+MoveCmd { amt: 6, from_column: 5, to_column: 4 }
+0:LNWTD
+1:CPH
+2:WPHNDGMJ
+3:CWSNTQL
+4:PHCNNDMWQB
+5:TH
+6:MBRJGSL
+7:ZNWGVBRT
+8:WGDNPL
+MoveCmd { amt: 2, from_column: 4, to_column: 8 }
+0:LNWTD
+1:CPH
+2:WPHNDGMJ
+3:CWSNTQL
+4:PHCNNDMW
+5:TH
+6:MBRJGSL
+7:ZNWGVBRT
+8:WGDNPLQB
+MoveCmd { amt: 8, from_column: 8, to_column: 0 }
+0:LNWTDWGDNPLQB
+1:CPH
+2:WPHNDGMJ
+3:CWSNTQL
+4:PHCNNDMW
+5:TH
+6:MBRJGSL
+7:ZNWGVBRT
+8:
+MoveCmd { amt: 3, from_column: 4, to_column: 3 }
+0:LNWTDWGDNPLQB
+1:CPH
+2:WPHNDGMJ
+3:CWSNTQLDMW
+4:PHCNN
+5:TH
+6:MBRJGSL
+7:ZNWGVBRT
+8:
+MoveCmd { amt: 9, from_column: 0, to_column: 7 }
+0:LNWT
+1:CPH
+2:WPHNDGMJ
+3:CWSNTQLDMW
+4:PHCNN
+5:TH
+6:MBRJGSL
+7:ZNWGVBRTDWGDNPLQB
+8:
+MoveCmd { amt: 2, from_column: 0, to_column: 4 }
+0:LN
+1:CPH
+2:WPHNDGMJ
+3:CWSNTQLDMW
+4:PHCNNWT
+5:TH
+6:MBRJGSL
+7:ZNWGVBRTDWGDNPLQB
+8:
+MoveCmd { amt: 1, from_column: 0, to_column: 7 }
+0:L
+1:CPH
+2:WPHNDGMJ
+3:CWSNTQLDMW
+4:PHCNNWT
+5:TH
+6:MBRJGSL
+7:ZNWGVBRTDWGDNPLQBN
+8:
+MoveCmd { amt: 14, from_column: 7, to_column: 1 }
+0:L
+1:CPHVBRTDWGDNPLQBN
+2:WPHNDGMJ
+3:CWSNTQLDMW
+4:PHCNNWT
+5:TH
+6:MBRJGSL
+7:ZNWG
+8:
+MoveCmd { amt: 1, from_column: 0, to_column: 1 }
+0:
+1:CPHVBRTDWGDNPLQBNL
+2:WPHNDGMJ
+3:CWSNTQLDMW
+4:PHCNNWT
+5:TH
+6:MBRJGSL
+7:ZNWG
+8:
+MoveCmd { amt: 2, from_column: 5, to_column: 7 }
+0:
+1:CPHVBRTDWGDNPLQBNL
+2:WPHNDGMJ
+3:CWSNTQLDMW
+4:PHCNNWT
+5:
+6:MBRJGSL
+7:ZNWGTH
+8:
+MoveCmd { amt: 2, from_column: 4, to_column: 6 }
+0:
+1:CPHVBRTDWGDNPLQBNL
+2:WPHNDGMJ
+3:CWSNTQLDMW
+4:PHCNN
+5:
+6:MBRJGSLWT
+7:ZNWGTH
+8:
+MoveCmd { amt: 6, from_column: 7, to_column: 5 }
+0:
+1:CPHVBRTDWGDNPLQBNL
+2:WPHNDGMJ
+3:CWSNTQLDMW
+4:PHCNN
+5:ZNWGTH
+6:MBRJGSLWT
+7:
+8:
+MoveCmd { amt: 4, from_column: 3, to_column: 1 }
+0:
+1:CPHVBRTDWGDNPLQBNLLDMW
+2:WPHNDGMJ
+3:CWSNTQ
+4:PHCNN
+5:ZNWGTH
+6:MBRJGSLWT
+7:
+8:
+MoveCmd { amt: 2, from_column: 3, to_column: 8 }
+0:
+1:CPHVBRTDWGDNPLQBNLLDMW
+2:WPHNDGMJ
+3:CWSN
+4:PHCNN
+5:ZNWGTH
+6:MBRJGSLWT
+7:
+8:TQ
+MoveCmd { amt: 5, from_column: 6, to_column: 3 }
+0:
+1:CPHVBRTDWGDNPLQBNLLDMW
+2:WPHNDGMJ
+3:CWSNGSLWT
+4:PHCNN
+5:ZNWGTH
+6:MBRJ
+7:
+8:TQ
+MoveCmd { amt: 2, from_column: 6, to_column: 4 }
+0:
+1:CPHVBRTDWGDNPLQBNLLDMW
+2:WPHNDGMJ
+3:CWSNGSLWT
+4:PHCNNRJ
+5:ZNWGTH
+6:MB
+7:
+8:TQ
+MoveCmd { amt: 6, from_column: 1, to_column: 3 }
+0:
+1:CPHVBRTDWGDNPLQB
+2:WPHNDGMJ
+3:CWSNGSLWTNLLDMW
+4:PHCNNRJ
+5:ZNWGTH
+6:MB
+7:
+8:TQ
+MoveCmd { amt: 2, from_column: 3, to_column: 6 }
+0:
+1:CPHVBRTDWGDNPLQB
+2:WPHNDGMJ
+3:CWSNGSLWTNLLD
+4:PHCNNRJ
+5:ZNWGTH
+6:MBMW
+7:
+8:TQ
+MoveCmd { amt: 4, from_column: 4, to_column: 7 }
+0:
+1:CPHVBRTDWGDNPLQB
+2:WPHNDGMJ
+3:CWSNGSLWTNLLD
+4:PHC
+5:ZNWGTH
+6:MBMW
+7:NNRJ
+8:TQ
+MoveCmd { amt: 1, from_column: 4, to_column: 1 }
+0:
+1:CPHVBRTDWGDNPLQBC
+2:WPHNDGMJ
+3:CWSNGSLWTNLLD
+4:PH
+5:ZNWGTH
+6:MBMW
+7:NNRJ
+8:TQ
+MoveCmd { amt: 3, from_column: 2, to_column: 4 }
+0:
+1:CPHVBRTDWGDNPLQBC
+2:WPHND
+3:CWSNGSLWTNLLD
+4:PHGMJ
+5:ZNWGTH
+6:MBMW
+7:NNRJ
+8:TQ
+MoveCmd { amt: 3, from_column: 7, to_column: 2 }
+0:
+1:CPHVBRTDWGDNPLQBC
+2:WPHNDNRJ
+3:CWSNGSLWTNLLD
+4:PHGMJ
+5:ZNWGTH
+6:MBMW
+7:N
+8:TQ
+MoveCmd { amt: 4, from_column: 2, to_column: 6 }
+0:
+1:CPHVBRTDWGDNPLQBC
+2:WPHN
+3:CWSNGSLWTNLLD
+4:PHGMJ
+5:ZNWGTH
+6:MBMWDNRJ
+7:N
+8:TQ
+MoveCmd { amt: 2, from_column: 8, to_column: 7 }
+0:
+1:CPHVBRTDWGDNPLQBC
+2:WPHN
+3:CWSNGSLWTNLLD
+4:PHGMJ
+5:ZNWGTH
+6:MBMWDNRJ
+7:NTQ
+8:
+MoveCmd { amt: 1, from_column: 2, to_column: 6 }
+0:
+1:CPHVBRTDWGDNPLQBC
+2:WPH
+3:CWSNGSLWTNLLD
+4:PHGMJ
+5:ZNWGTH
+6:MBMWDNRJN
+7:NTQ
+8:
+MoveCmd { amt: 1, from_column: 5, to_column: 7 }
+0:
+1:CPHVBRTDWGDNPLQBC
+2:WPH
+3:CWSNGSLWTNLLD
+4:PHGMJ
+5:ZNWGT
+6:MBMWDNRJN
+7:NTQH
+8:
+MoveCmd { amt: 5, from_column: 6, to_column: 0 }
+0:DNRJN
+1:CPHVBRTDWGDNPLQBC
+2:WPH
+3:CWSNGSLWTNLLD
+4:PHGMJ
+5:ZNWGT
+6:MBMW
+7:NTQH
+8:
+MoveCmd { amt: 3, from_column: 6, to_column: 1 }
+0:DNRJN
+1:CPHVBRTDWGDNPLQBCBMW
+2:WPH
+3:CWSNGSLWTNLLD
+4:PHGMJ
+5:ZNWGT
+6:M
+7:NTQH
+8:
+MoveCmd { amt: 1, from_column: 5, to_column: 2 }
+0:DNRJN
+1:CPHVBRTDWGDNPLQBCBMW
+2:WPHT
+3:CWSNGSLWTNLLD
+4:PHGMJ
+5:ZNWG
+6:M
+7:NTQH
+8:
+MoveCmd { amt: 2, from_column: 4, to_column: 8 }
+0:DNRJN
+1:CPHVBRTDWGDNPLQBCBMW
+2:WPHT
+3:CWSNGSLWTNLLD
+4:PHG
+5:ZNWG
+6:M
+7:NTQH
+8:MJ
+MoveCmd { amt: 5, from_column: 3, to_column: 1 }
+0:DNRJN
+1:CPHVBRTDWGDNPLQBCBMWTNLLD
+2:WPHT
+3:CWSNGSLW
+4:PHG
+5:ZNWG
+6:M
+7:NTQH
+8:MJ
+MoveCmd { amt: 3, from_column: 4, to_column: 8 }
+0:DNRJN
+1:CPHVBRTDWGDNPLQBCBMWTNLLD
+2:WPHT
+3:CWSNGSLW
+4:
+5:ZNWG
+6:M
+7:NTQH
+8:MJPHG
+MoveCmd { amt: 5, from_column: 8, to_column: 5 }
+0:DNRJN
+1:CPHVBRTDWGDNPLQBCBMWTNLLD
+2:WPHT
+3:CWSNGSLW
+4:
+5:ZNWGMJPHG
+6:M
+7:NTQH
+8:
+MoveCmd { amt: 2, from_column: 0, to_column: 2 }
+0:DNR
+1:CPHVBRTDWGDNPLQBCBMWTNLLD
+2:WPHTJN
+3:CWSNGSLW
+4:
+5:ZNWGMJPHG
+6:M
+7:NTQH
+8:
+MoveCmd { amt: 4, from_column: 3, to_column: 0 }
+0:DNRGSLW
+1:CPHVBRTDWGDNPLQBCBMWTNLLD
+2:WPHTJN
+3:CWSN
+4:
+5:ZNWGMJPHG
+6:M
+7:NTQH
+8:
+MoveCmd { amt: 2, from_column: 7, to_column: 0 }
+0:DNRGSLWQH
+1:CPHVBRTDWGDNPLQBCBMWTNLLD
+2:WPHTJN
+3:CWSN
+4:
+5:ZNWGMJPHG
+6:M
+7:NT
+8:
+MoveCmd { amt: 18, from_column: 1, to_column: 4 }
+0:DNRGSLWQH
+1:CPHVBRT
+2:WPHTJN
+3:CWSN
+4:DWGDNPLQBCBMWTNLLD
+5:ZNWGMJPHG
+6:M
+7:NT
+8:
+MoveCmd { amt: 3, from_column: 3, to_column: 0 }
+0:DNRGSLWQHWSN
+1:CPHVBRT
+2:WPHTJN
+3:C
+4:DWGDNPLQBCBMWTNLLD
+5:ZNWGMJPHG
+6:M
+7:NT
+8:
+MoveCmd { amt: 1, from_column: 0, to_column: 1 }
+0:DNRGSLWQHWS
+1:CPHVBRTN
+2:WPHTJN
+3:C
+4:DWGDNPLQBCBMWTNLLD
+5:ZNWGMJPHG
+6:M
+7:NT
+8:
+MoveCmd { amt: 1, from_column: 5, to_column: 7 }
+0:DNRGSLWQHWS
+1:CPHVBRTN
+2:WPHTJN
+3:C
+4:DWGDNPLQBCBMWTNLLD
+5:ZNWGMJPH
+6:M
+7:NTG
+8:
+MoveCmd { amt: 1, from_column: 6, to_column: 0 }
+0:DNRGSLWQHWSM
+1:CPHVBRTN
+2:WPHTJN
+3:C
+4:DWGDNPLQBCBMWTNLLD
+5:ZNWGMJPH
+6:
+7:NTG
+8:
+MoveCmd { amt: 10, from_column: 0, to_column: 4 }
+0:DN
+1:CPHVBRTN
+2:WPHTJN
+3:C
+4:DWGDNPLQBCBMWTNLLDRGSLWQHWSM
+5:ZNWGMJPH
+6:
+7:NTG
+8:
+MoveCmd { amt: 1, from_column: 0, to_column: 4 }
+0:D
+1:CPHVBRTN
+2:WPHTJN
+3:C
+4:DWGDNPLQBCBMWTNLLDRGSLWQHWSMN
+5:ZNWGMJPH
+6:
+7:NTG
+8:
+MoveCmd { amt: 3, from_column: 7, to_column: 0 }
+0:DNTG
+1:CPHVBRTN
+2:WPHTJN
+3:C
+4:DWGDNPLQBCBMWTNLLDRGSLWQHWSMN
+5:ZNWGMJPH
+6:
+7:
+8:
+MoveCmd { amt: 2, from_column: 0, to_column: 4 }
+0:DN
+1:CPHVBRTN
+2:WPHTJN
+3:C
+4:DWGDNPLQBCBMWTNLLDRGSLWQHWSMNTG
+5:ZNWGMJPH
+6:
+7:
+8:
+MoveCmd { amt: 3, from_column: 5, to_column: 4 }
+0:DN
+1:CPHVBRTN
+2:WPHTJN
+3:C
+4:DWGDNPLQBCBMWTNLLDRGSLWQHWSMNTGJPH
+5:ZNWGM
+6:
+7:
+8:
+MoveCmd { amt: 8, from_column: 1, to_column: 8 }
+0:DN
+1:
+2:WPHTJN
+3:C
+4:DWGDNPLQBCBMWTNLLDRGSLWQHWSMNTGJPH
+5:ZNWGM
+6:
+7:
+8:CPHVBRTN
+MoveCmd { amt: 2, from_column: 8, to_column: 6 }
+0:DN
+1:
+2:WPHTJN
+3:C
+4:DWGDNPLQBCBMWTNLLDRGSLWQHWSMNTGJPH
+5:ZNWGM
+6:TN
+7:
+8:CPHVBR
+MoveCmd { amt: 3, from_column: 2, to_column: 7 }
+0:DN
+1:
+2:WPH
+3:C
+4:DWGDNPLQBCBMWTNLLDRGSLWQHWSMNTGJPH
+5:ZNWGM
+6:TN
+7:TJN
+8:CPHVBR
+MoveCmd { amt: 1, from_column: 3, to_column: 7 }
+0:DN
+1:
+2:WPH
+3:
+4:DWGDNPLQBCBMWTNLLDRGSLWQHWSMNTGJPH
+5:ZNWGM
+6:TN
+7:TJNC
+8:CPHVBR
+MoveCmd { amt: 3, from_column: 4, to_column: 2 }
+0:DN
+1:
+2:WPHJPH
+3:
+4:DWGDNPLQBCBMWTNLLDRGSLWQHWSMNTG
+5:ZNWGM
+6:TN
+7:TJNC
+8:CPHVBR
+MoveCmd { amt: 15, from_column: 4, to_column: 7 }
+0:DN
+1:
+2:WPHJPH
+3:
+4:DWGDNPLQBCBMWTNL
+5:ZNWGM
+6:TN
+7:TJNCLDRGSLWQHWSMNTG
+8:CPHVBR
+MoveCmd { amt: 4, from_column: 5, to_column: 0 }
+0:DNNWGM
+1:
+2:WPHJPH
+3:
+4:DWGDNPLQBCBMWTNL
+5:Z
+6:TN
+7:TJNCLDRGSLWQHWSMNTG
+8:CPHVBR
+MoveCmd { amt: 2, from_column: 6, to_column: 3 }
+0:DNNWGM
+1:
+2:WPHJPH
+3:TN
+4:DWGDNPLQBCBMWTNL
+5:Z
+6:
+7:TJNCLDRGSLWQHWSMNTG
+8:CPHVBR
+MoveCmd { amt: 9, from_column: 4, to_column: 6 }
+0:DNNWGM
+1:
+2:WPHJPH
+3:TN
+4:DWGDNPL
+5:Z
+6:QBCBMWTNL
+7:TJNCLDRGSLWQHWSMNTG
+8:CPHVBR
+MoveCmd { amt: 1, from_column: 5, to_column: 7 }
+0:DNNWGM
+1:
+2:WPHJPH
+3:TN
+4:DWGDNPL
+5:
+6:QBCBMWTNL
+7:TJNCLDRGSLWQHWSMNTGZ
+8:CPHVBR
+MoveCmd { amt: 5, from_column: 2, to_column: 4 }
+0:DNNWGM
+1:
+2:W
+3:TN
+4:DWGDNPLPHJPH
+5:
+6:QBCBMWTNL
+7:TJNCLDRGSLWQHWSMNTGZ
+8:CPHVBR
+MoveCmd { amt: 5, from_column: 6, to_column: 4 }
+0:DNNWGM
+1:
+2:W
+3:TN
+4:DWGDNPLPHJPHMWTNL
+5:
+6:QBCB
+7:TJNCLDRGSLWQHWSMNTGZ
+8:CPHVBR
+MoveCmd { amt: 3, from_column: 0, to_column: 4 }
+0:DNN
+1:
+2:W
+3:TN
+4:DWGDNPLPHJPHMWTNLWGM
+5:
+6:QBCB
+7:TJNCLDRGSLWQHWSMNTGZ
+8:CPHVBR
+MoveCmd { amt: 2, from_column: 3, to_column: 7 }
+0:DNN
+1:
+2:W
+3:
+4:DWGDNPLPHJPHMWTNLWGM
+5:
+6:QBCB
+7:TJNCLDRGSLWQHWSMNTGZTN
+8:CPHVBR
+MoveCmd { amt: 3, from_column: 0, to_column: 5 }
+0:
+1:
+2:W
+3:
+4:DWGDNPLPHJPHMWTNLWGM
+5:DNN
+6:QBCB
+7:TJNCLDRGSLWQHWSMNTGZTN
+8:CPHVBR
+MoveCmd { amt: 20, from_column: 4, to_column: 3 }
+0:
+1:
+2:W
+3:DWGDNPLPHJPHMWTNLWGM
+4:
+5:DNN
+6:QBCB
+7:TJNCLDRGSLWQHWSMNTGZTN
+8:CPHVBR
+MoveCmd { amt: 1, from_column: 6, to_column: 5 }
+0:
+1:
+2:W
+3:DWGDNPLPHJPHMWTNLWGM
+4:
+5:DNNB
+6:QBC
+7:TJNCLDRGSLWQHWSMNTGZTN
+8:CPHVBR
+MoveCmd { amt: 21, from_column: 7, to_column: 1 }
+0:
+1:JNCLDRGSLWQHWSMNTGZTN
+2:W
+3:DWGDNPLPHJPHMWTNLWGM
+4:
+5:DNNB
+6:QBC
+7:T
+8:CPHVBR
+MoveCmd { amt: 1, from_column: 2, to_column: 6 }
+0:
+1:JNCLDRGSLWQHWSMNTGZTN
+2:
+3:DWGDNPLPHJPHMWTNLWGM
+4:
+5:DNNB
+6:QBCW
+7:T
+8:CPHVBR
+MoveCmd { amt: 2, from_column: 3, to_column: 1 }
+0:
+1:JNCLDRGSLWQHWSMNTGZTNGM
+2:
+3:DWGDNPLPHJPHMWTNLW
+4:
+5:DNNB
+6:QBCW
+7:T
+8:CPHVBR
+MoveCmd { amt: 1, from_column: 6, to_column: 0 }
+0:W
+1:JNCLDRGSLWQHWSMNTGZTNGM
+2:
+3:DWGDNPLPHJPHMWTNLW
+4:
+5:DNNB
+6:QBC
+7:T
+8:CPHVBR
+MoveCmd { amt: 18, from_column: 1, to_column: 7 }
+0:W
+1:JNCLD
+2:
+3:DWGDNPLPHJPHMWTNLW
+4:
+5:DNNB
+6:QBC
+7:TRGSLWQHWSMNTGZTNGM
+8:CPHVBR
+MoveCmd { amt: 3, from_column: 8, to_column: 1 }
+0:W
+1:JNCLDVBR
+2:
+3:DWGDNPLPHJPHMWTNLW
+4:
+5:DNNB
+6:QBC
+7:TRGSLWQHWSMNTGZTNGM
+8:CPH
+MoveCmd { amt: 1, from_column: 5, to_column: 3 }
+0:W
+1:JNCLDVBR
+2:
+3:DWGDNPLPHJPHMWTNLWB
+4:
+5:DNN
+6:QBC
+7:TRGSLWQHWSMNTGZTNGM
+8:CPH
+MoveCmd { amt: 1, from_column: 0, to_column: 8 }
+0:
+1:JNCLDVBR
+2:
+3:DWGDNPLPHJPHMWTNLWB
+4:
+5:DNN
+6:QBC
+7:TRGSLWQHWSMNTGZTNGM
+8:CPHW
+MoveCmd { amt: 8, from_column: 7, to_column: 5 }
+0:
+1:JNCLDVBR
+2:
+3:DWGDNPLPHJPHMWTNLWB
+4:
+5:DNNNTGZTNGM
+6:QBC
+7:TRGSLWQHWSM
+8:CPHW
+MoveCmd { amt: 4, from_column: 7, to_column: 1 }
+0:
+1:JNCLDVBRHWSM
+2:
+3:DWGDNPLPHJPHMWTNLWB
+4:
+5:DNNNTGZTNGM
+6:QBC
+7:TRGSLWQ
+8:CPHW
+MoveCmd { amt: 1, from_column: 1, to_column: 5 }
+0:
+1:JNCLDVBRHWS
+2:
+3:DWGDNPLPHJPHMWTNLWB
+4:
+5:DNNNTGZTNGMM
+6:QBC
+7:TRGSLWQ
+8:CPHW
+MoveCmd { amt: 7, from_column: 7, to_column: 4 }
+0:
+1:JNCLDVBRHWS
+2:
+3:DWGDNPLPHJPHMWTNLWB
+4:TRGSLWQ
+5:DNNNTGZTNGMM
+6:QBC
+7:
+8:CPHW
+MoveCmd { amt: 2, from_column: 4, to_column: 2 }
+0:
+1:JNCLDVBRHWS
+2:WQ
+3:DWGDNPLPHJPHMWTNLWB
+4:TRGSL
+5:DNNNTGZTNGMM
+6:QBC
+7:
+8:CPHW
+MoveCmd { amt: 1, from_column: 8, to_column: 4 }
+0:
+1:JNCLDVBRHWS
+2:WQ
+3:DWGDNPLPHJPHMWTNLWB
+4:TRGSLW
+5:DNNNTGZTNGMM
+6:QBC
+7:
+8:CPH
+MoveCmd { amt: 5, from_column: 1, to_column: 3 }
+0:
+1:JNCLDV
+2:WQ
+3:DWGDNPLPHJPHMWTNLWBBRHWS
+4:TRGSLW
+5:DNNNTGZTNGMM
+6:QBC
+7:
+8:CPH
+MoveCmd { amt: 1, from_column: 2, to_column: 6 }
+0:
+1:JNCLDV
+2:W
+3:DWGDNPLPHJPHMWTNLWBBRHWS
+4:TRGSLW
+5:DNNNTGZTNGMM
+6:QBCQ
+7:
+8:CPH
+MoveCmd { amt: 2, from_column: 4, to_column: 6 }
+0:
+1:JNCLDV
+2:W
+3:DWGDNPLPHJPHMWTNLWBBRHWS
+4:TRGS
+5:DNNNTGZTNGMM
+6:QBCQLW
+7:
+8:CPH
+MoveCmd { amt: 4, from_column: 3, to_column: 8 }
+0:
+1:JNCLDV
+2:W
+3:DWGDNPLPHJPHMWTNLWBB
+4:TRGS
+5:DNNNTGZTNGMM
+6:QBCQLW
+7:
+8:CPHRHWS
+MoveCmd { amt: 2, from_column: 4, to_column: 8 }
+0:
+1:JNCLDV
+2:W
+3:DWGDNPLPHJPHMWTNLWBB
+4:TR
+5:DNNNTGZTNGMM
+6:QBCQLW
+7:
+8:CPHRHWSGS
+MoveCmd { amt: 6, from_column: 1, to_column: 7 }
+0:
+1:
+2:W
+3:DWGDNPLPHJPHMWTNLWBB
+4:TR
+5:DNNNTGZTNGMM
+6:QBCQLW
+7:JNCLDV
+8:CPHRHWSGS
+MoveCmd { amt: 3, from_column: 6, to_column: 2 }
+0:
+1:
+2:WQLW
+3:DWGDNPLPHJPHMWTNLWBB
+4:TR
+5:DNNNTGZTNGMM
+6:QBC
+7:JNCLDV
+8:CPHRHWSGS
+MoveCmd { amt: 2, from_column: 4, to_column: 3 }
+0:
+1:
+2:WQLW
+3:DWGDNPLPHJPHMWTNLWBBTR
+4:
+5:DNNNTGZTNGMM
+6:QBC
+7:JNCLDV
+8:CPHRHWSGS
+MoveCmd { amt: 4, from_column: 7, to_column: 1 }
+0:
+1:CLDV
+2:WQLW
+3:DWGDNPLPHJPHMWTNLWBBTR
+4:
+5:DNNNTGZTNGMM
+6:QBC
+7:JN
+8:CPHRHWSGS
+MoveCmd { amt: 2, from_column: 6, to_column: 3 }
+0:
+1:CLDV
+2:WQLW
+3:DWGDNPLPHJPHMWTNLWBBTRBC
+4:
+5:DNNNTGZTNGMM
+6:Q
+7:JN
+8:CPHRHWSGS
+MoveCmd { amt: 7, from_column: 5, to_column: 3 }
+0:
+1:CLDV
+2:WQLW
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGMM
+4:
+5:DNNNT
+6:Q
+7:JN
+8:CPHRHWSGS
+MoveCmd { amt: 1, from_column: 7, to_column: 3 }
+0:
+1:CLDV
+2:WQLW
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGMMN
+4:
+5:DNNNT
+6:Q
+7:J
+8:CPHRHWSGS
+MoveCmd { amt: 3, from_column: 5, to_column: 6 }
+0:
+1:CLDV
+2:WQLW
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGMMN
+4:
+5:DN
+6:QNNT
+7:J
+8:CPHRHWSGS
+MoveCmd { amt: 2, from_column: 6, to_column: 1 }
+0:
+1:CLDVNT
+2:WQLW
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGMMN
+4:
+5:DN
+6:QN
+7:J
+8:CPHRHWSGS
+MoveCmd { amt: 7, from_column: 8, to_column: 6 }
+0:
+1:CLDVNT
+2:WQLW
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGMMN
+4:
+5:DN
+6:QNHRHWSGS
+7:J
+8:CP
+MoveCmd { amt: 1, from_column: 8, to_column: 1 }
+0:
+1:CLDVNTP
+2:WQLW
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGMMN
+4:
+5:DN
+6:QNHRHWSGS
+7:J
+8:C
+MoveCmd { amt: 3, from_column: 2, to_column: 5 }
+0:
+1:CLDVNTP
+2:W
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGMMN
+4:
+5:DNQLW
+6:QNHRHWSGS
+7:J
+8:C
+MoveCmd { amt: 3, from_column: 6, to_column: 3 }
+0:
+1:CLDVNTP
+2:W
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGMMNSGS
+4:
+5:DNQLW
+6:QNHRHW
+7:J
+8:C
+MoveCmd { amt: 2, from_column: 6, to_column: 8 }
+0:
+1:CLDVNTP
+2:W
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGMMNSGS
+4:
+5:DNQLW
+6:QNHR
+7:J
+8:CHW
+MoveCmd { amt: 6, from_column: 3, to_column: 0 }
+0:MMNSGS
+1:CLDVNTP
+2:W
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNG
+4:
+5:DNQLW
+6:QNHR
+7:J
+8:CHW
+MoveCmd { amt: 3, from_column: 6, to_column: 8 }
+0:MMNSGS
+1:CLDVNTP
+2:W
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNG
+4:
+5:DNQLW
+6:Q
+7:J
+8:CHWNHR
+MoveCmd { amt: 1, from_column: 7, to_column: 4 }
+0:MMNSGS
+1:CLDVNTP
+2:W
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNG
+4:J
+5:DNQLW
+6:Q
+7:
+8:CHWNHR
+MoveCmd { amt: 1, from_column: 2, to_column: 5 }
+0:MMNSGS
+1:CLDVNTP
+2:
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNG
+4:J
+5:DNQLWW
+6:Q
+7:
+8:CHWNHR
+MoveCmd { amt: 3, from_column: 8, to_column: 3 }
+0:MMNSGS
+1:CLDVNTP
+2:
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGNHR
+4:J
+5:DNQLWW
+6:Q
+7:
+8:CHW
+MoveCmd { amt: 2, from_column: 5, to_column: 3 }
+0:MMNSGS
+1:CLDVNTP
+2:
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGNHRWW
+4:J
+5:DNQL
+6:Q
+7:
+8:CHW
+MoveCmd { amt: 3, from_column: 8, to_column: 0 }
+0:MMNSGSCHW
+1:CLDVNTP
+2:
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGNHRWW
+4:J
+5:DNQL
+6:Q
+7:
+8:
+MoveCmd { amt: 4, from_column: 1, to_column: 7 }
+0:MMNSGSCHW
+1:CLD
+2:
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGNHRWW
+4:J
+5:DNQL
+6:Q
+7:VNTP
+8:
+MoveCmd { amt: 1, from_column: 7, to_column: 4 }
+0:MMNSGSCHW
+1:CLD
+2:
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGNHRWW
+4:JP
+5:DNQL
+6:Q
+7:VNT
+8:
+MoveCmd { amt: 9, from_column: 0, to_column: 1 }
+0:
+1:CLDMMNSGSCHW
+2:
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGNHRWW
+4:JP
+5:DNQL
+6:Q
+7:VNT
+8:
+MoveCmd { amt: 1, from_column: 5, to_column: 4 }
+0:
+1:CLDMMNSGSCHW
+2:
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGNHRWW
+4:JPL
+5:DNQ
+6:Q
+7:VNT
+8:
+MoveCmd { amt: 1, from_column: 6, to_column: 1 }
+0:
+1:CLDMMNSGSCHWQ
+2:
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGNHRWW
+4:JPL
+5:DNQ
+6:
+7:VNT
+8:
+MoveCmd { amt: 1, from_column: 7, to_column: 0 }
+0:T
+1:CLDMMNSGSCHWQ
+2:
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGNHRWW
+4:JPL
+5:DNQ
+6:
+7:VN
+8:
+MoveCmd { amt: 2, from_column: 7, to_column: 8 }
+0:T
+1:CLDMMNSGSCHWQ
+2:
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGNHRWW
+4:JPL
+5:DNQ
+6:
+7:
+8:VN
+MoveCmd { amt: 1, from_column: 8, to_column: 7 }
+0:T
+1:CLDMMNSGSCHWQ
+2:
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGNHRWW
+4:JPL
+5:DNQ
+6:
+7:N
+8:V
+MoveCmd { amt: 1, from_column: 4, to_column: 6 }
+0:T
+1:CLDMMNSGSCHWQ
+2:
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGNHRWW
+4:JP
+5:DNQ
+6:L
+7:N
+8:V
+MoveCmd { amt: 1, from_column: 6, to_column: 5 }
+0:T
+1:CLDMMNSGSCHWQ
+2:
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGNHRWW
+4:JP
+5:DNQL
+6:
+7:N
+8:V
+MoveCmd { amt: 1, from_column: 8, to_column: 7 }
+0:T
+1:CLDMMNSGSCHWQ
+2:
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGNHRWW
+4:JP
+5:DNQL
+6:
+7:NV
+8:
+MoveCmd { amt: 1, from_column: 5, to_column: 2 }
+0:T
+1:CLDMMNSGSCHWQ
+2:L
+3:DWGDNPLPHJPHMWTNLWBBTRBCGZTNGNHRWW
+4:JP
+5:DNQ
+6:
+7:NV
+8:
+MoveCmd { amt: 26, from_column: 3, to_column: 2 }
+0:T
+1:CLDMMNSGSCHWQ
+2:LHJPHMWTNLWBBTRBCGZTNGNHRWW
+3:DWGDNPLP
+4:JP
+5:DNQ
+6:
+7:NV
+8:
+MoveCmd { amt: 1, from_column: 4, to_column: 7 }
+0:T
+1:CLDMMNSGSCHWQ
+2:LHJPHMWTNLWBBTRBCGZTNGNHRWW
+3:DWGDNPLP
+4:J
+5:DNQ
+6:
+7:NVP
+8:
+MoveCmd { amt: 3, from_column: 5, to_column: 2 }
+0:T
+1:CLDMMNSGSCHWQ
+2:LHJPHMWTNLWBBTRBCGZTNGNHRWWDNQ
+3:DWGDNPLP
+4:J
+5:
+6:
+7:NVP
+8:
+MoveCmd { amt: 7, from_column: 3, to_column: 2 }
+0:T
+1:CLDMMNSGSCHWQ
+2:LHJPHMWTNLWBBTRBCGZTNGNHRWWDNQWGDNPLP
+3:D
+4:J
+5:
+6:
+7:NVP
+8:
+MoveCmd { amt: 1, from_column: 0, to_column: 2 }
+0:
+1:CLDMMNSGSCHWQ
+2:LHJPHMWTNLWBBTRBCGZTNGNHRWWDNQWGDNPLPT
+3:D
+4:J
+5:
+6:
+7:NVP
+8:
+MoveCmd { amt: 1, from_column: 3, to_column: 7 }
+0:
+1:CLDMMNSGSCHWQ
+2:LHJPHMWTNLWBBTRBCGZTNGNHRWWDNQWGDNPLPT
+3:
+4:J
+5:
+6:
+7:NVPD
+8:
+MoveCmd { amt: 13, from_column: 2, to_column: 0 }
+0:WWDNQWGDNPLPT
+1:CLDMMNSGSCHWQ
+2:LHJPHMWTNLWBBTRBCGZTNGNHR
+3:
+4:J
+5:
+6:
+7:NVPD
+8:
+MoveCmd { amt: 1, from_column: 2, to_column: 3 }
+0:WWDNQWGDNPLPT
+1:CLDMMNSGSCHWQ
+2:LHJPHMWTNLWBBTRBCGZTNGNH
+3:R
+4:J
+5:
+6:
+7:NVPD
+8:
+MoveCmd { amt: 12, from_column: 1, to_column: 4 }
+0:WWDNQWGDNPLPT
+1:C
+2:LHJPHMWTNLWBBTRBCGZTNGNH
+3:R
+4:JLDMMNSGSCHWQ
+5:
+6:
+7:NVPD
+8:
+MoveCmd { amt: 20, from_column: 2, to_column: 1 }
+0:WWDNQWGDNPLPT
+1:CHMWTNLWBBTRBCGZTNGNH
+2:LHJP
+3:R
+4:JLDMMNSGSCHWQ
+5:
+6:
+7:NVPD
+8:
+MoveCmd { amt: 1, from_column: 3, to_column: 0 }
+0:WWDNQWGDNPLPTR
+1:CHMWTNLWBBTRBCGZTNGNH
+2:LHJP
+3:
+4:JLDMMNSGSCHWQ
+5:
+6:
+7:NVPD
+8:
+MoveCmd { amt: 4, from_column: 4, to_column: 6 }
+0:WWDNQWGDNPLPTR
+1:CHMWTNLWBBTRBCGZTNGNH
+2:LHJP
+3:
+4:JLDMMNSGS
+5:
+6:CHWQ
+7:NVPD
+8:
+MoveCmd { amt: 1, from_column: 6, to_column: 7 }
+0:WWDNQWGDNPLPTR
+1:CHMWTNLWBBTRBCGZTNGNH
+2:LHJP
+3:
+4:JLDMMNSGS
+5:
+6:CHW
+7:NVPDQ
+8:
+MoveCmd { amt: 9, from_column: 4, to_column: 1 }
+0:WWDNQWGDNPLPTR
+1:CHMWTNLWBBTRBCGZTNGNHJLDMMNSGS
+2:LHJP
+3:
+4:
+5:
+6:CHW
+7:NVPDQ
+8:
+MoveCmd { amt: 5, from_column: 0, to_column: 4 }
+0:WWDNQWGDN
+1:CHMWTNLWBBTRBCGZTNGNHJLDMMNSGS
+2:LHJP
+3:
+4:PLPTR
+5:
+6:CHW
+7:NVPDQ
+8:
+MoveCmd { amt: 21, from_column: 1, to_column: 7 }
+0:WWDNQWGDN
+1:CHMWTNLWB
+2:LHJP
+3:
+4:PLPTR
+5:
+6:CHW
+7:NVPDQBTRBCGZTNGNHJLDMMNSGS
+8:
+MoveCmd { amt: 5, from_column: 7, to_column: 3 }
+0:WWDNQWGDN
+1:CHMWTNLWB
+2:LHJP
+3:MNSGS
+4:PLPTR
+5:
+6:CHW
+7:NVPDQBTRBCGZTNGNHJLDM
+8:
+MoveCmd { amt: 4, from_column: 4, to_column: 1 }
+0:WWDNQWGDN
+1:CHMWTNLWBLPTR
+2:LHJP
+3:MNSGS
+4:P
+5:
+6:CHW
+7:NVPDQBTRBCGZTNGNHJLDM
+8:
+MoveCmd { amt: 6, from_column: 0, to_column: 6 }
+0:WWD
+1:CHMWTNLWBLPTR
+2:LHJP
+3:MNSGS
+4:P
+5:
+6:CHWNQWGDN
+7:NVPDQBTRBCGZTNGNHJLDM
+8:
+MoveCmd { amt: 1, from_column: 4, to_column: 3 }
+0:WWD
+1:CHMWTNLWBLPTR
+2:LHJP
+3:MNSGSP
+4:
+5:
+6:CHWNQWGDN
+7:NVPDQBTRBCGZTNGNHJLDM
+8:
+MoveCmd { amt: 4, from_column: 2, to_column: 0 }
+0:WWDLHJP
+1:CHMWTNLWBLPTR
+2:
+3:MNSGSP
+4:
+5:
+6:CHWNQWGDN
+7:NVPDQBTRBCGZTNGNHJLDM
+8:
+MoveCmd { amt: 6, from_column: 0, to_column: 2 }
+0:W
+1:CHMWTNLWBLPTR
+2:WDLHJP
+3:MNSGSP
+4:
+5:
+6:CHWNQWGDN
+7:NVPDQBTRBCGZTNGNHJLDM
+8:
+MoveCmd { amt: 1, from_column: 0, to_column: 8 }
+0:
+1:CHMWTNLWBLPTR
+2:WDLHJP
+3:MNSGSP
+4:
+5:
+6:CHWNQWGDN
+7:NVPDQBTRBCGZTNGNHJLDM
+8:W
+MoveCmd { amt: 6, from_column: 7, to_column: 6 }
+0:
+1:CHMWTNLWBLPTR
+2:WDLHJP
+3:MNSGSP
+4:
+5:
+6:CHWNQWGDNNHJLDM
+7:NVPDQBTRBCGZTNG
+8:W
+MoveCmd { amt: 4, from_column: 7, to_column: 1 }
+0:
+1:CHMWTNLWBLPTRZTNG
+2:WDLHJP
+3:MNSGSP
+4:
+5:
+6:CHWNQWGDNNHJLDM
+7:NVPDQBTRBCG
+8:W
+MoveCmd { amt: 4, from_column: 1, to_column: 6 }
+0:
+1:CHMWTNLWBLPTR
+2:WDLHJP
+3:MNSGSP
+4:
+5:
+6:CHWNQWGDNNHJLDMZTNG
+7:NVPDQBTRBCG
+8:W
+MoveCmd { amt: 5, from_column: 3, to_column: 0 }
+0:NSGSP
+1:CHMWTNLWBLPTR
+2:WDLHJP
+3:M
+4:
+5:
+6:CHWNQWGDNNHJLDMZTNG
+7:NVPDQBTRBCG
+8:W
+MoveCmd { amt: 8, from_column: 7, to_column: 3 }
+0:NSGSP
+1:CHMWTNLWBLPTR
+2:WDLHJP
+3:MDQBTRBCG
+4:
+5:
+6:CHWNQWGDNNHJLDMZTNG
+7:NVP
+8:W
+MoveCmd { amt: 1, from_column: 8, to_column: 5 }
+0:NSGSP
+1:CHMWTNLWBLPTR
+2:WDLHJP
+3:MDQBTRBCG
+4:
+5:W
+6:CHWNQWGDNNHJLDMZTNG
+7:NVP
+8:
+MoveCmd { amt: 18, from_column: 6, to_column: 5 }
+0:NSGSP
+1:CHMWTNLWBLPTR
+2:WDLHJP
+3:MDQBTRBCG
+4:
+5:WHWNQWGDNNHJLDMZTNG
+6:C
+7:NVP
+8:
+MoveCmd { amt: 15, from_column: 5, to_column: 4 }
+0:NSGSP
+1:CHMWTNLWBLPTR
+2:WDLHJP
+3:MDQBTRBCG
+4:QWGDNNHJLDMZTNG
+5:WHWN
+6:C
+7:NVP
+8:
+MoveCmd { amt: 2, from_column: 5, to_column: 7 }
+0:NSGSP
+1:CHMWTNLWBLPTR
+2:WDLHJP
+3:MDQBTRBCG
+4:QWGDNNHJLDMZTNG
+5:WH
+6:C
+7:NVPWN
+8:
+MoveCmd { amt: 2, from_column: 5, to_column: 2 }
+0:NSGSP
+1:CHMWTNLWBLPTR
+2:WDLHJPWH
+3:MDQBTRBCG
+4:QWGDNNHJLDMZTNG
+5:
+6:C
+7:NVPWN
+8:
+MoveCmd { amt: 8, from_column: 2, to_column: 6 }
+0:NSGSP
+1:CHMWTNLWBLPTR
+2:
+3:MDQBTRBCG
+4:QWGDNNHJLDMZTNG
+5:
+6:CWDLHJPWH
+7:NVPWN
+8:
+MoveCmd { amt: 15, from_column: 4, to_column: 6 }
+0:NSGSP
+1:CHMWTNLWBLPTR
+2:
+3:MDQBTRBCG
+4:
+5:
+6:CWDLHJPWHQWGDNNHJLDMZTNG
+7:NVPWN
+8:
+MoveCmd { amt: 3, from_column: 3, to_column: 8 }
+0:NSGSP
+1:CHMWTNLWBLPTR
+2:
+3:MDQBTR
+4:
+5:
+6:CWDLHJPWHQWGDNNHJLDMZTNG
+7:NVPWN
+8:BCG
+MoveCmd { amt: 12, from_column: 1, to_column: 2 }
+0:NSGSP
+1:C
+2:HMWTNLWBLPTR
+3:MDQBTR
+4:
+5:
+6:CWDLHJPWHQWGDNNHJLDMZTNG
+7:NVPWN
+8:BCG
+MoveCmd { amt: 3, from_column: 8, to_column: 3 }
+0:NSGSP
+1:C
+2:HMWTNLWBLPTR
+3:MDQBTRBCG
+4:
+5:
+6:CWDLHJPWHQWGDNNHJLDMZTNG
+7:NVPWN
+8:
+MoveCmd { amt: 6, from_column: 6, to_column: 8 }
+0:NSGSP
+1:C
+2:HMWTNLWBLPTR
+3:MDQBTRBCG
+4:
+5:
+6:CWDLHJPWHQWGDNNHJL
+7:NVPWN
+8:DMZTNG
+MoveCmd { amt: 9, from_column: 3, to_column: 4 }
+0:NSGSP
+1:C
+2:HMWTNLWBLPTR
+3:
+4:MDQBTRBCG
+5:
+6:CWDLHJPWHQWGDNNHJL
+7:NVPWN
+8:DMZTNG
+MoveCmd { amt: 10, from_column: 2, to_column: 4 }
+0:NSGSP
+1:C
+2:HM
+3:
+4:MDQBTRBCGWTNLWBLPTR
+5:
+6:CWDLHJPWHQWGDNNHJL
+7:NVPWN
+8:DMZTNG
+MoveCmd { amt: 9, from_column: 4, to_column: 1 }
+0:NSGSP
+1:CTNLWBLPTR
+2:HM
+3:
+4:MDQBTRBCGW
+5:
+6:CWDLHJPWHQWGDNNHJL
+7:NVPWN
+8:DMZTNG
+MoveCmd { amt: 14, from_column: 6, to_column: 7 }
+0:NSGSP
+1:CTNLWBLPTR
+2:HM
+3:
+4:MDQBTRBCGW
+5:
+6:CWDL
+7:NVPWNHJPWHQWGDNNHJL
+8:DMZTNG
+MoveCmd { amt: 14, from_column: 7, to_column: 4 }
+0:NSGSP
+1:CTNLWBLPTR
+2:HM
+3:
+4:MDQBTRBCGWHJPWHQWGDNNHJL
+5:
+6:CWDL
+7:NVPWN
+8:DMZTNG
+MoveCmd { amt: 4, from_column: 1, to_column: 3 }
+0:NSGSP
+1:CTNLWB
+2:HM
+3:LPTR
+4:MDQBTRBCGWHJPWHQWGDNNHJL
+5:
+6:CWDL
+7:NVPWN
+8:DMZTNG
+MoveCmd { amt: 1, from_column: 3, to_column: 5 }
+0:NSGSP
+1:CTNLWB
+2:HM
+3:LPT
+4:MDQBTRBCGWHJPWHQWGDNNHJL
+5:R
+6:CWDL
+7:NVPWN
+8:DMZTNG
+MoveCmd { amt: 2, from_column: 7, to_column: 3 }
+0:NSGSP
+1:CTNLWB
+2:HM
+3:LPTWN
+4:MDQBTRBCGWHJPWHQWGDNNHJL
+5:R
+6:CWDL
+7:NVP
+8:DMZTNG
+MoveCmd { amt: 3, from_column: 7, to_column: 8 }
+0:NSGSP
+1:CTNLWB
+2:HM
+3:LPTWN
+4:MDQBTRBCGWHJPWHQWGDNNHJL
+5:R
+6:CWDL
+7:
+8:DMZTNGNVP
+MoveCmd { amt: 18, from_column: 4, to_column: 0 }
+0:NSGSPBCGWHJPWHQWGDNNHJL
+1:CTNLWB
+2:HM
+3:LPTWN
+4:MDQBTR
+5:R
+6:CWDL
+7:
+8:DMZTNGNVP
+MoveCmd { amt: 1, from_column: 4, to_column: 8 }
+0:NSGSPBCGWHJPWHQWGDNNHJL
+1:CTNLWB
+2:HM
+3:LPTWN
+4:MDQBT
+5:R
+6:CWDL
+7:
+8:DMZTNGNVPR
+MoveCmd { amt: 1, from_column: 6, to_column: 3 }
+0:NSGSPBCGWHJPWHQWGDNNHJL
+1:CTNLWB
+2:HM
+3:LPTWNL
+4:MDQBT
+5:R
+6:CWD
+7:
+8:DMZTNGNVPR
+MoveCmd { amt: 5, from_column: 4, to_column: 8 }
+0:NSGSPBCGWHJPWHQWGDNNHJL
+1:CTNLWB
+2:HM
+3:LPTWNL
+4:
+5:R
+6:CWD
+7:
+8:DMZTNGNVPRMDQBT
+MoveCmd { amt: 3, from_column: 1, to_column: 3 }
+0:NSGSPBCGWHJPWHQWGDNNHJL
+1:CTN
+2:HM
+3:LPTWNLLWB
+4:
+5:R
+6:CWD
+7:
+8:DMZTNGNVPRMDQBT
+MoveCmd { amt: 13, from_column: 8, to_column: 1 }
+0:NSGSPBCGWHJPWHQWGDNNHJL
+1:CTNZTNGNVPRMDQBT
+2:HM
+3:LPTWNLLWB
+4:
+5:R
+6:CWD
+7:
+8:DM
+MoveCmd { amt: 13, from_column: 1, to_column: 5 }
+0:NSGSPBCGWHJPWHQWGDNNHJL
+1:CTN
+2:HM
+3:LPTWNLLWB
+4:
+5:RZTNGNVPRMDQBT
+6:CWD
+7:
+8:DM
+MoveCmd { amt: 1, from_column: 6, to_column: 2 }
+0:NSGSPBCGWHJPWHQWGDNNHJL
+1:CTN
+2:HMD
+3:LPTWNLLWB
+4:
+5:RZTNGNVPRMDQBT
+6:CW
+7:
+8:DM
+MoveCmd { amt: 3, from_column: 2, to_column: 0 }
+0:NSGSPBCGWHJPWHQWGDNNHJLHMD
+1:CTN
+2:
+3:LPTWNLLWB
+4:
+5:RZTNGNVPRMDQBT
+6:CW
+7:
+8:DM
+MoveCmd { amt: 9, from_column: 5, to_column: 4 }
+0:NSGSPBCGWHJPWHQWGDNNHJLHMD
+1:CTN
+2:
+3:LPTWNLLWB
+4:NVPRMDQBT
+5:RZTNG
+6:CW
+7:
+8:DM
+MoveCmd { amt: 1, from_column: 6, to_column: 7 }
+0:NSGSPBCGWHJPWHQWGDNNHJLHMD
+1:CTN
+2:
+3:LPTWNLLWB
+4:NVPRMDQBT
+5:RZTNG
+6:C
+7:W
+8:DM
+MoveCmd { amt: 20, from_column: 0, to_column: 7 }
+0:NSGSPB
+1:CTN
+2:
+3:LPTWNLLWB
+4:NVPRMDQBT
+5:RZTNG
+6:C
+7:WCGWHJPWHQWGDNNHJLHMD
+8:DM
+MoveCmd { amt: 2, from_column: 1, to_column: 7 }
+0:NSGSPB
+1:C
+2:
+3:LPTWNLLWB
+4:NVPRMDQBT
+5:RZTNG
+6:C
+7:WCGWHJPWHQWGDNNHJLHMDTN
+8:DM
+MoveCmd { amt: 5, from_column: 5, to_column: 8 }
+0:NSGSPB
+1:C
+2:
+3:LPTWNLLWB
+4:NVPRMDQBT
+5:
+6:C
+7:WCGWHJPWHQWGDNNHJLHMDTN
+8:DMRZTNG
+MoveCmd { amt: 15, from_column: 7, to_column: 6 }
+0:NSGSPB
+1:C
+2:
+3:LPTWNLLWB
+4:NVPRMDQBT
+5:
+6:CHQWGDNNHJLHMDTN
+7:WCGWHJPW
+8:DMRZTNG
+MoveCmd { amt: 3, from_column: 4, to_column: 2 }
+0:NSGSPB
+1:C
+2:QBT
+3:LPTWNLLWB
+4:NVPRMD
+5:
+6:CHQWGDNNHJLHMDTN
+7:WCGWHJPW
+8:DMRZTNG
+MoveCmd { amt: 5, from_column: 0, to_column: 2 }
+0:N
+1:C
+2:QBTSGSPB
+3:LPTWNLLWB
+4:NVPRMD
+5:
+6:CHQWGDNNHJLHMDTN
+7:WCGWHJPW
+8:DMRZTNG
+MoveCmd { amt: 2, from_column: 2, to_column: 3 }
+0:N
+1:C
+2:QBTSGS
+3:LPTWNLLWBPB
+4:NVPRMD
+5:
+6:CHQWGDNNHJLHMDTN
+7:WCGWHJPW
+8:DMRZTNG
+MoveCmd { amt: 3, from_column: 8, to_column: 4 }
+0:N
+1:C
+2:QBTSGS
+3:LPTWNLLWBPB
+4:NVPRMDTNG
+5:
+6:CHQWGDNNHJLHMDTN
+7:WCGWHJPW
+8:DMRZ
+MoveCmd { amt: 4, from_column: 4, to_column: 1 }
+0:N
+1:CDTNG
+2:QBTSGS
+3:LPTWNLLWBPB
+4:NVPRM
+5:
+6:CHQWGDNNHJLHMDTN
+7:WCGWHJPW
+8:DMRZ
+MoveCmd { amt: 4, from_column: 4, to_column: 6 }
+0:N
+1:CDTNG
+2:QBTSGS
+3:LPTWNLLWBPB
+4:N
+5:
+6:CHQWGDNNHJLHMDTNVPRM
+7:WCGWHJPW
+8:DMRZ
+MoveCmd { amt: 3, from_column: 3, to_column: 8 }
+0:N
+1:CDTNG
+2:QBTSGS
+3:LPTWNLLW
+4:N
+5:
+6:CHQWGDNNHJLHMDTNVPRM
+7:WCGWHJPW
+8:DMRZBPB
+MoveCmd { amt: 10, from_column: 6, to_column: 7 }
+0:N
+1:CDTNG
+2:QBTSGS
+3:LPTWNLLW
+4:N
+5:
+6:CHQWGDNNHJ
+7:WCGWHJPWLHMDTNVPRM
+8:DMRZBPB
+MoveCmd { amt: 2, from_column: 8, to_column: 3 }
+0:N
+1:CDTNG
+2:QBTSGS
+3:LPTWNLLWPB
+4:N
+5:
+6:CHQWGDNNHJ
+7:WCGWHJPWLHMDTNVPRM
+8:DMRZB
+MoveCmd { amt: 1, from_column: 4, to_column: 5 }
+0:N
+1:CDTNG
+2:QBTSGS
+3:LPTWNLLWPB
+4:
+5:N
+6:CHQWGDNNHJ
+7:WCGWHJPWLHMDTNVPRM
+8:DMRZB
+MoveCmd { amt: 8, from_column: 6, to_column: 8 }
+0:N
+1:CDTNG
+2:QBTSGS
+3:LPTWNLLWPB
+4:
+5:N
+6:CH
+7:WCGWHJPWLHMDTNVPRM
+8:DMRZBQWGDNNHJ
+MoveCmd { amt: 1, from_column: 5, to_column: 6 }
+0:N
+1:CDTNG
+2:QBTSGS
+3:LPTWNLLWPB
+4:
+5:
+6:CHN
+7:WCGWHJPWLHMDTNVPRM
+8:DMRZBQWGDNNHJ
+MoveCmd { amt: 6, from_column: 2, to_column: 3 }
+0:N
+1:CDTNG
+2:
+3:LPTWNLLWPBQBTSGS
+4:
+5:
+6:CHN
+7:WCGWHJPWLHMDTNVPRM
+8:DMRZBQWGDNNHJ
+MoveCmd { amt: 12, from_column: 8, to_column: 7 }
+0:N
+1:CDTNG
+2:
+3:LPTWNLLWPBQBTSGS
+4:
+5:
+6:CHN
+7:WCGWHJPWLHMDTNVPRMMRZBQWGDNNHJ
+8:D
+MoveCmd { amt: 1, from_column: 0, to_column: 4 }
+0:
+1:CDTNG
+2:
+3:LPTWNLLWPBQBTSGS
+4:N
+5:
+6:CHN
+7:WCGWHJPWLHMDTNVPRMMRZBQWGDNNHJ
+8:D
+MoveCmd { amt: 2, from_column: 6, to_column: 7 }
+0:
+1:CDTNG
+2:
+3:LPTWNLLWPBQBTSGS
+4:N
+5:
+6:C
+7:WCGWHJPWLHMDTNVPRMMRZBQWGDNNHJHN
+8:D
+MoveCmd { amt: 1, from_column: 6, to_column: 4 }
+0:
+1:CDTNG
+2:
+3:LPTWNLLWPBQBTSGS
+4:NC
+5:
+6:
+7:WCGWHJPWLHMDTNVPRMMRZBQWGDNNHJHN
+8:D
+MoveCmd { amt: 1, from_column: 8, to_column: 4 }
+0:
+1:CDTNG
+2:
+3:LPTWNLLWPBQBTSGS
+4:NCD
+5:
+6:
+7:WCGWHJPWLHMDTNVPRMMRZBQWGDNNHJHN
+8:
+MoveCmd { amt: 2, from_column: 1, to_column: 8 }
+0:
+1:CDT
+2:
+3:LPTWNLLWPBQBTSGS
+4:NCD
+5:
+6:
+7:WCGWHJPWLHMDTNVPRMMRZBQWGDNNHJHN
+8:NG
+MoveCmd { amt: 11, from_column: 7, to_column: 0 }
+0:BQWGDNNHJHN
+1:CDT
+2:
+3:LPTWNLLWPBQBTSGS
+4:NCD
+5:
+6:
+7:WCGWHJPWLHMDTNVPRMMRZ
+8:NG
+MoveCmd { amt: 7, from_column: 0, to_column: 4 }
+0:BQWG
+1:CDT
+2:
+3:LPTWNLLWPBQBTSGS
+4:NCDDNNHJHN
+5:
+6:
+7:WCGWHJPWLHMDTNVPRMMRZ
+8:NG
+MoveCmd { amt: 3, from_column: 0, to_column: 5 }
+0:B
+1:CDT
+2:
+3:LPTWNLLWPBQBTSGS
+4:NCDDNNHJHN
+5:QWG
+6:
+7:WCGWHJPWLHMDTNVPRMMRZ
+8:NG
+MoveCmd { amt: 5, from_column: 7, to_column: 8 }
+0:B
+1:CDT
+2:
+3:LPTWNLLWPBQBTSGS
+4:NCDDNNHJHN
+5:QWG
+6:
+7:WCGWHJPWLHMDTNVP
+8:NGRMMRZ
+MoveCmd { amt: 8, from_column: 3, to_column: 2 }
+0:B
+1:CDT
+2:PBQBTSGS
+3:LPTWNLLW
+4:NCDDNNHJHN
+5:QWG
+6:
+7:WCGWHJPWLHMDTNVP
+8:NGRMMRZ
+MoveCmd { amt: 4, from_column: 3, to_column: 5 }
+0:B
+1:CDT
+2:PBQBTSGS
+3:LPTW
+4:NCDDNNHJHN
+5:QWGNLLW
+6:
+7:WCGWHJPWLHMDTNVP
+8:NGRMMRZ
+MoveCmd { amt: 5, from_column: 8, to_column: 2 }
+0:B
+1:CDT
+2:PBQBTSGSRMMRZ
+3:LPTW
+4:NCDDNNHJHN
+5:QWGNLLW
+6:
+7:WCGWHJPWLHMDTNVP
+8:NG
+MoveCmd { amt: 4, from_column: 3, to_column: 4 }
+0:B
+1:CDT
+2:PBQBTSGSRMMRZ
+3:
+4:NCDDNNHJHNLPTW
+5:QWGNLLW
+6:
+7:WCGWHJPWLHMDTNVP
+8:NG
+MoveCmd { amt: 2, from_column: 5, to_column: 6 }
+0:B
+1:CDT
+2:PBQBTSGSRMMRZ
+3:
+4:NCDDNNHJHNLPTW
+5:QWGNL
+6:LW
+7:WCGWHJPWLHMDTNVP
+8:NG
+MoveCmd { amt: 1, from_column: 8, to_column: 4 }
+0:B
+1:CDT
+2:PBQBTSGSRMMRZ
+3:
+4:NCDDNNHJHNLPTWG
+5:QWGNL
+6:LW
+7:WCGWHJPWLHMDTNVP
+8:N
+MoveCmd { amt: 2, from_column: 6, to_column: 3 }
+0:B
+1:CDT
+2:PBQBTSGSRMMRZ
+3:LW
+4:NCDDNNHJHNLPTWG
+5:QWGNL
+6:
+7:WCGWHJPWLHMDTNVP
+8:N
+MoveCmd { amt: 12, from_column: 4, to_column: 1 }
+0:B
+1:CDTDNNHJHNLPTWG
+2:PBQBTSGSRMMRZ
+3:LW
+4:NCD
+5:QWGNL
+6:
+7:WCGWHJPWLHMDTNVP
+8:N
+MoveCmd { amt: 8, from_column: 7, to_column: 8 }
+0:B
+1:CDTDNNHJHNLPTWG
+2:PBQBTSGSRMMRZ
+3:LW
+4:NCD
+5:QWGNL
+6:
+7:WCGWHJPW
+8:NLHMDTNVP
+MoveCmd { amt: 8, from_column: 7, to_column: 5 }
+0:B
+1:CDTDNNHJHNLPTWG
+2:PBQBTSGSRMMRZ
+3:LW
+4:NCD
+5:QWGNLWCGWHJPW
+6:
+7:
+8:NLHMDTNVP
+MoveCmd { amt: 9, from_column: 5, to_column: 1 }
+0:B
+1:CDTDNNHJHNLPTWGLWCGWHJPW
+2:PBQBTSGSRMMRZ
+3:LW
+4:NCD
+5:QWGN
+6:
+7:
+8:NLHMDTNVP
+MoveCmd { amt: 4, from_column: 8, to_column: 1 }
+0:B
+1:CDTDNNHJHNLPTWGLWCGWHJPWTNVP
+2:PBQBTSGSRMMRZ
+3:LW
+4:NCD
+5:QWGN
+6:
+7:
+8:NLHMD
+MoveCmd { amt: 1, from_column: 4, to_column: 0 }
+0:BD
+1:CDTDNNHJHNLPTWGLWCGWHJPWTNVP
+2:PBQBTSGSRMMRZ
+3:LW
+4:NC
+5:QWGN
+6:
+7:
+8:NLHMD
+MoveCmd { amt: 5, from_column: 1, to_column: 0 }
+0:BDWTNVP
+1:CDTDNNHJHNLPTWGLWCGWHJP
+2:PBQBTSGSRMMRZ
+3:LW
+4:NC
+5:QWGN
+6:
+7:
+8:NLHMD
+MoveCmd { amt: 2, from_column: 4, to_column: 3 }
+0:BDWTNVP
+1:CDTDNNHJHNLPTWGLWCGWHJP
+2:PBQBTSGSRMMRZ
+3:LWNC
+4:
+5:QWGN
+6:
+7:
+8:NLHMD
+MoveCmd { amt: 5, from_column: 1, to_column: 4 }
+0:BDWTNVP
+1:CDTDNNHJHNLPTWGLWC
+2:PBQBTSGSRMMRZ
+3:LWNC
+4:GWHJP
+5:QWGN
+6:
+7:
+8:NLHMD
+MoveCmd { amt: 5, from_column: 4, to_column: 5 }
+0:BDWTNVP
+1:CDTDNNHJHNLPTWGLWC
+2:PBQBTSGSRMMRZ
+3:LWNC
+4:
+5:QWGNGWHJP
+6:
+7:
+8:NLHMD
+MoveCmd { amt: 3, from_column: 3, to_column: 6 }
+0:BDWTNVP
+1:CDTDNNHJHNLPTWGLWC
+2:PBQBTSGSRMMRZ
+3:L
+4:
+5:QWGNGWHJP
+6:WNC
+7:
+8:NLHMD
+MoveCmd { amt: 11, from_column: 1, to_column: 6 }
+0:BDWTNVP
+1:CDTDNNH
+2:PBQBTSGSRMMRZ
+3:L
+4:
+5:QWGNGWHJP
+6:WNCJHNLPTWGLWC
+7:
+8:NLHMD
+MoveCmd { amt: 2, from_column: 1, to_column: 0 }
+0:BDWTNVPNH
+1:CDTDN
+2:PBQBTSGSRMMRZ
+3:L
+4:
+5:QWGNGWHJP
+6:WNCJHNLPTWGLWC
+7:
+8:NLHMD
+MoveCmd { amt: 4, from_column: 2, to_column: 6 }
+0:BDWTNVPNH
+1:CDTDN
+2:PBQBTSGSR
+3:L
+4:
+5:QWGNGWHJP
+6:WNCJHNLPTWGLWCMMRZ
+7:
+8:NLHMD
+MoveCmd { amt: 2, from_column: 1, to_column: 3 }
+0:BDWTNVPNH
+1:CDT
+2:PBQBTSGSR
+3:LDN
+4:
+5:QWGNGWHJP
+6:WNCJHNLPTWGLWCMMRZ
+7:
+8:NLHMD
+MoveCmd { amt: 6, from_column: 0, to_column: 3 }
+0:BDW
+1:CDT
+2:PBQBTSGSR
+3:LDNTNVPNH
+4:
+5:QWGNGWHJP
+6:WNCJHNLPTWGLWCMMRZ
+7:
+8:NLHMD
+MoveCmd { amt: 1, from_column: 1, to_column: 7 }
+0:BDW
+1:CD
+2:PBQBTSGSR
+3:LDNTNVPNH
+4:
+5:QWGNGWHJP
+6:WNCJHNLPTWGLWCMMRZ
+7:T
+8:NLHMD
+MoveCmd { amt: 2, from_column: 8, to_column: 4 }
+0:BDW
+1:CD
+2:PBQBTSGSR
+3:LDNTNVPNH
+4:MD
+5:QWGNGWHJP
+6:WNCJHNLPTWGLWCMMRZ
+7:T
+8:NLH
+MoveCmd { amt: 4, from_column: 3, to_column: 2 }
+0:BDW
+1:CD
+2:PBQBTSGSRVPNH
+3:LDNTN
+4:MD
+5:QWGNGWHJP
+6:WNCJHNLPTWGLWCMMRZ
+7:T
+8:NLH
+MoveCmd { amt: 5, from_column: 3, to_column: 0 }
+0:BDWLDNTN
+1:CD
+2:PBQBTSGSRVPNH
+3:
+4:MD
+5:QWGNGWHJP
+6:WNCJHNLPTWGLWCMMRZ
+7:T
+8:NLH
+MoveCmd { amt: 2, from_column: 1, to_column: 0 }
+0:BDWLDNTNCD
+1:
+2:PBQBTSGSRVPNH
+3:
+4:MD
+5:QWGNGWHJP
+6:WNCJHNLPTWGLWCMMRZ
+7:T
+8:NLH
+MoveCmd { amt: 1, from_column: 7, to_column: 4 }
+0:BDWLDNTNCD
+1:
+2:PBQBTSGSRVPNH
+3:
+4:MDT
+5:QWGNGWHJP
+6:WNCJHNLPTWGLWCMMRZ
+7:
+8:NLH
+MoveCmd { amt: 14, from_column: 6, to_column: 5 }
+0:BDWLDNTNCD
+1:
+2:PBQBTSGSRVPNH
+3:
+4:MDT
+5:QWGNGWHJPHNLPTWGLWCMMRZ
+6:WNCJ
+7:
+8:NLH
+MoveCmd { amt: 3, from_column: 8, to_column: 1 }
+0:BDWLDNTNCD
+1:NLH
+2:PBQBTSGSRVPNH
+3:
+4:MDT
+5:QWGNGWHJPHNLPTWGLWCMMRZ
+6:WNCJ
+7:
+8:
+MoveCmd { amt: 15, from_column: 5, to_column: 7 }
+0:BDWLDNTNCD
+1:NLH
+2:PBQBTSGSRVPNH
+3:
+4:MDT
+5:QWGNGWHJ
+6:WNCJ
+7:PHNLPTWGLWCMMRZ
+8:
+MoveCmd { amt: 4, from_column: 0, to_column: 2 }
+0:BDWLDN
+1:NLH
+2:PBQBTSGSRVPNHTNCD
+3:
+4:MDT
+5:QWGNGWHJ
+6:WNCJ
+7:PHNLPTWGLWCMMRZ
+8:
+MoveCmd { amt: 2, from_column: 1, to_column: 2 }
+0:BDWLDN
+1:N
+2:PBQBTSGSRVPNHTNCDLH
+3:
+4:MDT
+5:QWGNGWHJ
+6:WNCJ
+7:PHNLPTWGLWCMMRZ
+8:
+MoveCmd { amt: 1, from_column: 0, to_column: 6 }
+0:BDWLD
+1:N
+2:PBQBTSGSRVPNHTNCDLH
+3:
+4:MDT
+5:QWGNGWHJ
+6:WNCJN
+7:PHNLPTWGLWCMMRZ
+8:
+MoveCmd { amt: 2, from_column: 2, to_column: 4 }
+0:BDWLD
+1:N
+2:PBQBTSGSRVPNHTNCD
+3:
+4:MDTLH
+5:QWGNGWHJ
+6:WNCJN
+7:PHNLPTWGLWCMMRZ
+8:
+MoveCmd { amt: 4, from_column: 4, to_column: 3 }
+0:BDWLD
+1:N
+2:PBQBTSGSRVPNHTNCD
+3:DTLH
+4:M
+5:QWGNGWHJ
+6:WNCJN
+7:PHNLPTWGLWCMMRZ
+8:
+MoveCmd { amt: 1, from_column: 2, to_column: 4 }
+0:BDWLD
+1:N
+2:PBQBTSGSRVPNHTNC
+3:DTLH
+4:MD
+5:QWGNGWHJ
+6:WNCJN
+7:PHNLPTWGLWCMMRZ
+8:
+MoveCmd { amt: 5, from_column: 0, to_column: 5 }
+0:
+1:N
+2:PBQBTSGSRVPNHTNC
+3:DTLH
+4:MD
+5:QWGNGWHJBDWLD
+6:WNCJN
+7:PHNLPTWGLWCMMRZ
+8:
+MoveCmd { amt: 12, from_column: 5, to_column: 6 }
+0:
+1:N
+2:PBQBTSGSRVPNHTNC
+3:DTLH
+4:MD
+5:Q
+6:WNCJNWGNGWHJBDWLD
+7:PHNLPTWGLWCMMRZ
+8:
+MoveCmd { amt: 7, from_column: 7, to_column: 3 }
+0:
+1:N
+2:PBQBTSGSRVPNHTNC
+3:DTLHLWCMMRZ
+4:MD
+5:Q
+6:WNCJNWGNGWHJBDWLD
+7:PHNLPTWG
+8:
+MoveCmd { amt: 12, from_column: 6, to_column: 8 }
+0:
+1:N
+2:PBQBTSGSRVPNHTNC
+3:DTLHLWCMMRZ
+4:MD
+5:Q
+6:WNCJN
+7:PHNLPTWG
+8:WGNGWHJBDWLD
+MoveCmd { amt: 4, from_column: 6, to_column: 8 }
+0:
+1:N
+2:PBQBTSGSRVPNHTNC
+3:DTLHLWCMMRZ
+4:MD
+5:Q
+6:W
+7:PHNLPTWG
+8:WGNGWHJBDWLDNCJN
+MoveCmd { amt: 1, from_column: 1, to_column: 7 }
+0:
+1:
+2:PBQBTSGSRVPNHTNC
+3:DTLHLWCMMRZ
+4:MD
+5:Q
+6:W
+7:PHNLPTWGN
+8:WGNGWHJBDWLDNCJN
+MoveCmd { amt: 12, from_column: 8, to_column: 3 }
+0:
+1:
+2:PBQBTSGSRVPNHTNC
+3:DTLHLWCMMRZWHJBDWLDNCJN
+4:MD
+5:Q
+6:W
+7:PHNLPTWGN
+8:WGNG
+MoveCmd { amt: 23, from_column: 3, to_column: 2 }
+0:
+1:
+2:PBQBTSGSRVPNHTNCDTLHLWCMMRZWHJBDWLDNCJN
+3:
+4:MD
+5:Q
+6:W
+7:PHNLPTWGN
+8:WGNG
+MoveCmd { amt: 1, from_column: 5, to_column: 4 }
+0:
+1:
+2:PBQBTSGSRVPNHTNCDTLHLWCMMRZWHJBDWLDNCJN
+3:
+4:MDQ
+5:
+6:W
+7:PHNLPTWGN
+8:WGNG
+MoveCmd { amt: 3, from_column: 8, to_column: 2 }
+0:
+1:
+2:PBQBTSGSRVPNHTNCDTLHLWCMMRZWHJBDWLDNCJNGNG
+3:
+4:MDQ
+5:
+6:W
+7:PHNLPTWGN
+8:W
+MoveCmd { amt: 1, from_column: 6, to_column: 8 }
+0:
+1:
+2:PBQBTSGSRVPNHTNCDTLHLWCMMRZWHJBDWLDNCJNGNG
+3:
+4:MDQ
+5:
+6:
+7:PHNLPTWGN
+8:WW
+MoveCmd { amt: 1, from_column: 8, to_column: 0 }
+0:W
+1:
+2:PBQBTSGSRVPNHTNCDTLHLWCMMRZWHJBDWLDNCJNGNG
+3:
+4:MDQ
+5:
+6:
+7:PHNLPTWGN
+8:W
+MoveCmd { amt: 1, from_column: 8, to_column: 6 }
+0:W
+1:
+2:PBQBTSGSRVPNHTNCDTLHLWCMMRZWHJBDWLDNCJNGNG
+3:
+4:MDQ
+5:
+6:W
+7:PHNLPTWGN
+8:
+MoveCmd { amt: 42, from_column: 2, to_column: 0 }
+0:WPBQBTSGSRVPNHTNCDTLHLWCMMRZWHJBDWLDNCJNGNG
+1:
+2:
+3:
+4:MDQ
+5:
+6:W
+7:PHNLPTWGN
+8:
+MoveCmd { amt: 3, from_column: 4, to_column: 3 }
+0:WPBQBTSGSRVPNHTNCDTLHLWCMMRZWHJBDWLDNCJNGNG
+1:
+2:
+3:MDQ
+4:
+5:
+6:W
+7:PHNLPTWGN
+8:
+MoveCmd { amt: 5, from_column: 0, to_column: 2 }
+0:WPBQBTSGSRVPNHTNCDTLHLWCMMRZWHJBDWLDNC
+1:
+2:JNGNG
+3:MDQ
+4:
+5:
+6:W
+7:PHNLPTWGN
+8:
+MoveCmd { amt: 3, from_column: 3, to_column: 6 }
+0:WPBQBTSGSRVPNHTNCDTLHLWCMMRZWHJBDWLDNC
+1:
+2:JNGNG
+3:
+4:
+5:
+6:WMDQ
+7:PHNLPTWGN
+8:
+MoveCmd { amt: 1, from_column: 0, to_column: 8 }
+0:WPBQBTSGSRVPNHTNCDTLHLWCMMRZWHJBDWLDN
+1:
+2:JNGNG
+3:
+4:
+5:
+6:WMDQ
+7:PHNLPTWGN
+8:C
+MoveCmd { amt: 4, from_column: 2, to_column: 7 }
+0:WPBQBTSGSRVPNHTNCDTLHLWCMMRZWHJBDWLDN
+1:
+2:J
+3:
+4:
+5:
+6:WMDQ
+7:PHNLPTWGNNGNG
+8:C
+MoveCmd { amt: 1, from_column: 2, to_column: 6 }
+0:WPBQBTSGSRVPNHTNCDTLHLWCMMRZWHJBDWLDN
+1:
+2:
+3:
+4:
+5:
+6:WMDQJ
+7:PHNLPTWGNNGNG
+8:C
+MoveCmd { amt: 1, from_column: 8, to_column: 0 }
+0:WPBQBTSGSRVPNHTNCDTLHLWCMMRZWHJBDWLDNC
+1:
+2:
+3:
+4:
+5:
+6:WMDQJ
+7:PHNLPTWGNNGNG
+8:
+MoveCmd { amt: 2, from_column: 6, to_column: 7 }
+0:WPBQBTSGSRVPNHTNCDTLHLWCMMRZWHJBDWLDNC
+1:
+2:
+3:
+4:
+5:
+6:WMD
+7:PHNLPTWGNNGNGQJ
+8:
+MoveCmd { amt: 8, from_column: 0, to_column: 5 }
+0:WPBQBTSGSRVPNHTNCDTLHLWCMMRZWH
+1:
+2:
+3:
+4:
+5:JBDWLDNC
+6:WMD
+7:PHNLPTWGNNGNGQJ
+8:
+MoveCmd { amt: 2, from_column: 6, to_column: 4 }
+0:WPBQBTSGSRVPNHTNCDTLHLWCMMRZWH
+1:
+2:
+3:
+4:MD
+5:JBDWLDNC
+6:W
+7:PHNLPTWGNNGNGQJ
+8:
+MoveCmd { amt: 9, from_column: 0, to_column: 1 }
+0:WPBQBTSGSRVPNHTNCDTLH
+1:LWCMMRZWH
+2:
+3:
+4:MD
+5:JBDWLDNC
+6:W
+7:PHNLPTWGNNGNGQJ
+8:
+MoveCmd { amt: 5, from_column: 1, to_column: 2 }
+0:WPBQBTSGSRVPNHTNCDTLH
+1:LWCM
+2:MRZWH
+3:
+4:MD
+5:JBDWLDNC
+6:W
+7:PHNLPTWGNNGNGQJ
+8:
+MoveCmd { amt: 3, from_column: 1, to_column: 3 }
+0:WPBQBTSGSRVPNHTNCDTLH
+1:L
+2:MRZWH
+3:WCM
+4:MD
+5:JBDWLDNC
+6:W
+7:PHNLPTWGNNGNGQJ
+8:
+MoveCmd { amt: 20, from_column: 0, to_column: 1 }
+0:W
+1:LPBQBTSGSRVPNHTNCDTLH
+2:MRZWH
+3:WCM
+4:MD
+5:JBDWLDNC
+6:W
+7:PHNLPTWGNNGNGQJ
+8:
+MoveCmd { amt: 1, from_column: 0, to_column: 4 }
+0:
+1:LPBQBTSGSRVPNHTNCDTLH
+2:MRZWH
+3:WCM
+4:MDW
+5:JBDWLDNC
+6:W
+7:PHNLPTWGNNGNGQJ
+8:
+MoveCmd { amt: 1, from_column: 5, to_column: 6 }
+0:
+1:LPBQBTSGSRVPNHTNCDTLH
+2:MRZWH
+3:WCM
+4:MDW
+5:JBDWLDN
+6:WC
+7:PHNLPTWGNNGNGQJ
+8:
+MoveCmd { amt: 3, from_column: 3, to_column: 6 }
+0:
+1:LPBQBTSGSRVPNHTNCDTLH
+2:MRZWH
+3:
+4:MDW
+5:JBDWLDN
+6:WCWCM
+7:PHNLPTWGNNGNGQJ
+8:
+MoveCmd { amt: 2, from_column: 2, to_column: 5 }
+0:
+1:LPBQBTSGSRVPNHTNCDTLH
+2:MRZ
+3:
+4:MDW
+5:JBDWLDNWH
+6:WCWCM
+7:PHNLPTWGNNGNGQJ
+8:
+MoveCmd { amt: 3, from_column: 5, to_column: 0 }
+0:NWH
+1:LPBQBTSGSRVPNHTNCDTLH
+2:MRZ
+3:
+4:MDW
+5:JBDWLD
+6:WCWCM
+7:PHNLPTWGNNGNGQJ
+8:
+MoveCmd { amt: 1, from_column: 5, to_column: 3 }
+0:NWH
+1:LPBQBTSGSRVPNHTNCDTLH
+2:MRZ
+3:D
+4:MDW
+5:JBDWL
+6:WCWCM
+7:PHNLPTWGNNGNGQJ
+8:
+MoveCmd { amt: 2, from_column: 0, to_column: 5 }
+0:N
+1:LPBQBTSGSRVPNHTNCDTLH
+2:MRZ
+3:D
+4:MDW
+5:JBDWLWH
+6:WCWCM
+7:PHNLPTWGNNGNGQJ
+8:
+MoveCmd { amt: 3, from_column: 4, to_column: 8 }
+0:N
+1:LPBQBTSGSRVPNHTNCDTLH
+2:MRZ
+3:D
+4:
+5:JBDWLWH
+6:WCWCM
+7:PHNLPTWGNNGNGQJ
+8:MDW
+MoveCmd { amt: 1, from_column: 3, to_column: 2 }
+0:N
+1:LPBQBTSGSRVPNHTNCDTLH
+2:MRZD
+3:
+4:
+5:JBDWLWH
+6:WCWCM
+7:PHNLPTWGNNGNGQJ
+8:MDW
+MoveCmd { amt: 2, from_column: 6, to_column: 3 }
+0:N
+1:LPBQBTSGSRVPNHTNCDTLH
+2:MRZD
+3:CM
+4:
+5:JBDWLWH
+6:WCW
+7:PHNLPTWGNNGNGQJ
+8:MDW
+MoveCmd { amt: 6, from_column: 7, to_column: 3 }
+0:N
+1:LPBQBTSGSRVPNHTNCDTLH
+2:MRZD
+3:CMNGNGQJ
+4:
+5:JBDWLWH
+6:WCW
+7:PHNLPTWGN
+8:MDW
+MoveCmd { amt: 1, from_column: 0, to_column: 8 }
+0:
+1:LPBQBTSGSRVPNHTNCDTLH
+2:MRZD
+3:CMNGNGQJ
+4:
+5:JBDWLWH
+6:WCW
+7:PHNLPTWGN
+8:MDWN
+MoveCmd { amt: 1, from_column: 1, to_column: 8 }
+0:
+1:LPBQBTSGSRVPNHTNCDTL
+2:MRZD
+3:CMNGNGQJ
+4:
+5:JBDWLWH
+6:WCW
+7:PHNLPTWGN
+8:MDWNH
+MoveCmd { amt: 2, from_column: 7, to_column: 6 }
+0:
+1:LPBQBTSGSRVPNHTNCDTL
+2:MRZD
+3:CMNGNGQJ
+4:
+5:JBDWLWH
+6:WCWGN
+7:PHNLPTW
+8:MDWNH
+MoveCmd { amt: 3, from_column: 5, to_column: 1 }
+0:
+1:LPBQBTSGSRVPNHTNCDTLLWH
+2:MRZD
+3:CMNGNGQJ
+4:
+5:JBDW
+6:WCWGN
+7:PHNLPTW
+8:MDWNH
+MoveCmd { amt: 5, from_column: 6, to_column: 4 }
+0:
+1:LPBQBTSGSRVPNHTNCDTLLWH
+2:MRZD
+3:CMNGNGQJ
+4:WCWGN
+5:JBDW
+6:
+7:PHNLPTW
+8:MDWNH
+MoveCmd { amt: 4, from_column: 1, to_column: 4 }
+0:
+1:LPBQBTSGSRVPNHTNCDT
+2:MRZD
+3:CMNGNGQJ
+4:WCWGNLLWH
+5:JBDW
+6:
+7:PHNLPTW
+8:MDWNH
+MoveCmd { amt: 4, from_column: 3, to_column: 5 }
+0:
+1:LPBQBTSGSRVPNHTNCDT
+2:MRZD
+3:CMNG
+4:WCWGNLLWH
+5:JBDWNGQJ
+6:
+7:PHNLPTW
+8:MDWNH
+MoveCmd { amt: 3, from_column: 8, to_column: 5 }
+0:
+1:LPBQBTSGSRVPNHTNCDT
+2:MRZD
+3:CMNG
+4:WCWGNLLWH
+5:JBDWNGQJWNH
+6:
+7:PHNLPTW
+8:MD
+MoveCmd { amt: 4, from_column: 2, to_column: 0 }
+0:MRZD
+1:LPBQBTSGSRVPNHTNCDT
+2:
+3:CMNG
+4:WCWGNLLWH
+5:JBDWNGQJWNH
+6:
+7:PHNLPTW
+8:MD
+MoveCmd { amt: 1, from_column: 8, to_column: 1 }
+0:MRZD
+1:LPBQBTSGSRVPNHTNCDTD
+2:
+3:CMNG
+4:WCWGNLLWH
+5:JBDWNGQJWNH
+6:
+7:PHNLPTW
+8:M
+MoveCmd { amt: 7, from_column: 7, to_column: 8 }
+0:MRZD
+1:LPBQBTSGSRVPNHTNCDTD
+2:
+3:CMNG
+4:WCWGNLLWH
+5:JBDWNGQJWNH
+6:
+7:
+8:MPHNLPTW
+MoveCmd { amt: 4, from_column: 1, to_column: 3 }
+0:MRZD
+1:LPBQBTSGSRVPNHTN
+2:
+3:CMNGCDTD
+4:WCWGNLLWH
+5:JBDWNGQJWNH
+6:
+7:
+8:MPHNLPTW
+MoveCmd { amt: 2, from_column: 0, to_column: 6 }
+0:MR
+1:LPBQBTSGSRVPNHTN
+2:
+3:CMNGCDTD
+4:WCWGNLLWH
+5:JBDWNGQJWNH
+6:ZD
+7:
+8:MPHNLPTW
+MoveCmd { amt: 3, from_column: 3, to_column: 4 }
+0:MR
+1:LPBQBTSGSRVPNHTN
+2:
+3:CMNGC
+4:WCWGNLLWHDTD
+5:JBDWNGQJWNH
+6:ZD
+7:
+8:MPHNLPTW
+MoveCmd { amt: 4, from_column: 1, to_column: 3 }
+0:MR
+1:LPBQBTSGSRVP
+2:
+3:CMNGCNHTN
+4:WCWGNLLWHDTD
+5:JBDWNGQJWNH
+6:ZD
+7:
+8:MPHNLPTW
+MoveCmd { amt: 1, from_column: 6, to_column: 3 }
+0:MR
+1:LPBQBTSGSRVP
+2:
+3:CMNGCNHTND
+4:WCWGNLLWHDTD
+5:JBDWNGQJWNH
+6:Z
+7:
+8:MPHNLPTW
+MoveCmd { amt: 4, from_column: 1, to_column: 8 }
+0:MR
+1:LPBQBTSG
+2:
+3:CMNGCNHTND
+4:WCWGNLLWHDTD
+5:JBDWNGQJWNH
+6:Z
+7:
+8:MPHNLPTWSRVP
+MoveCmd { amt: 7, from_column: 3, to_column: 2 }
+0:MR
+1:LPBQBTSG
+2:GCNHTND
+3:CMN
+4:WCWGNLLWHDTD
+5:JBDWNGQJWNH
+6:Z
+7:
+8:MPHNLPTWSRVP
+MoveCmd { amt: 1, from_column: 6, to_column: 2 }
+0:MR
+1:LPBQBTSG
+2:GCNHTNDZ
+3:CMN
+4:WCWGNLLWHDTD
+5:JBDWNGQJWNH
+6:
+7:
+8:MPHNLPTWSRVP
+MoveCmd { amt: 6, from_column: 1, to_column: 2 }
+0:MR
+1:LP
+2:GCNHTNDZBQBTSG
+3:CMN
+4:WCWGNLLWHDTD
+5:JBDWNGQJWNH
+6:
+7:
+8:MPHNLPTWSRVP
+MoveCmd { amt: 2, from_column: 0, to_column: 4 }
+0:
+1:LP
+2:GCNHTNDZBQBTSG
+3:CMN
+4:WCWGNLLWHDTDMR
+5:JBDWNGQJWNH
+6:
+7:
+8:MPHNLPTWSRVP
+MoveCmd { amt: 10, from_column: 2, to_column: 5 }
+0:
+1:LP
+2:GCNH
+3:CMN
+4:WCWGNLLWHDTDMR
+5:JBDWNGQJWNHTNDZBQBTSG
+6:
+7:
+8:MPHNLPTWSRVP
+MoveCmd { amt: 2, from_column: 5, to_column: 0 }
+0:SG
+1:LP
+2:GCNH
+3:CMN
+4:WCWGNLLWHDTDMR
+5:JBDWNGQJWNHTNDZBQBT
+6:
+7:
+8:MPHNLPTWSRVP
+MoveCmd { amt: 2, from_column: 1, to_column: 6 }
+0:SG
+1:
+2:GCNH
+3:CMN
+4:WCWGNLLWHDTDMR
+5:JBDWNGQJWNHTNDZBQBT
+6:LP
+7:
+8:MPHNLPTWSRVP
+MoveCmd { amt: 2, from_column: 2, to_column: 0 }
+0:SGNH
+1:
+2:GC
+3:CMN
+4:WCWGNLLWHDTDMR
+5:JBDWNGQJWNHTNDZBQBT
+6:LP
+7:
+8:MPHNLPTWSRVP
+MoveCmd { amt: 1, from_column: 6, to_column: 7 }
+0:SGNH
+1:
+2:GC
+3:CMN
+4:WCWGNLLWHDTDMR
+5:JBDWNGQJWNHTNDZBQBT
+6:L
+7:P
+8:MPHNLPTWSRVP
+MoveCmd { amt: 11, from_column: 4, to_column: 2 }
+0:SGNH
+1:
+2:GCGNLLWHDTDMR
+3:CMN
+4:WCW
+5:JBDWNGQJWNHTNDZBQBT
+6:L
+7:P
+8:MPHNLPTWSRVP
+MoveCmd { amt: 2, from_column: 2, to_column: 0 }
+0:SGNHMR
+1:
+2:GCGNLLWHDTD
+3:CMN
+4:WCW
+5:JBDWNGQJWNHTNDZBQBT
+6:L
+7:P
+8:MPHNLPTWSRVP
+MoveCmd { amt: 4, from_column: 5, to_column: 0 }
+0:SGNHMRBQBT
+1:
+2:GCGNLLWHDTD
+3:CMN
+4:WCW
+5:JBDWNGQJWNHTNDZ
+6:L
+7:P
+8:MPHNLPTWSRVP
+MoveCmd { amt: 1, from_column: 3, to_column: 5 }
+0:SGNHMRBQBT
+1:
+2:GCGNLLWHDTD
+3:CM
+4:WCW
+5:JBDWNGQJWNHTNDZN
+6:L
+7:P
+8:MPHNLPTWSRVP
+MoveCmd { amt: 8, from_column: 2, to_column: 3 }
+0:SGNHMRBQBT
+1:
+2:GCG
+3:CMNLLWHDTD
+4:WCW
+5:JBDWNGQJWNHTNDZN
+6:L
+7:P
+8:MPHNLPTWSRVP
+MoveCmd { amt: 2, from_column: 4, to_column: 5 }
+0:SGNHMRBQBT
+1:
+2:GCG
+3:CMNLLWHDTD
+4:W
+5:JBDWNGQJWNHTNDZNCW
+6:L
+7:P
+8:MPHNLPTWSRVP
+MoveCmd { amt: 3, from_column: 2, to_column: 4 }
+0:SGNHMRBQBT
+1:
+2:
+3:CMNLLWHDTD
+4:WGCG
+5:JBDWNGQJWNHTNDZNCW
+6:L
+7:P
+8:MPHNLPTWSRVP
+MoveCmd { amt: 1, from_column: 7, to_column: 3 }
+0:SGNHMRBQBT
+1:
+2:
+3:CMNLLWHDTDP
+4:WGCG
+5:JBDWNGQJWNHTNDZNCW
+6:L
+7:
+8:MPHNLPTWSRVP
+MoveCmd { amt: 1, from_column: 3, to_column: 8 }
+0:SGNHMRBQBT
+1:
+2:
+3:CMNLLWHDTD
+4:WGCG
+5:JBDWNGQJWNHTNDZNCW
+6:L
+7:
+8:MPHNLPTWSRVPP
+MoveCmd { amt: 2, from_column: 5, to_column: 0 }
+0:SGNHMRBQBTCW
+1:
+2:
+3:CMNLLWHDTD
+4:WGCG
+5:JBDWNGQJWNHTNDZN
+6:L
+7:
+8:MPHNLPTWSRVPP
+MoveCmd { amt: 1, from_column: 4, to_column: 0 }
+0:SGNHMRBQBTCWG
+1:
+2:
+3:CMNLLWHDTD
+4:WGC
+5:JBDWNGQJWNHTNDZN
+6:L
+7:
+8:MPHNLPTWSRVPP
+MoveCmd { amt: 9, from_column: 3, to_column: 2 }
+0:SGNHMRBQBTCWG
+1:
+2:MNLLWHDTD
+3:C
+4:WGC
+5:JBDWNGQJWNHTNDZN
+6:L
+7:
+8:MPHNLPTWSRVPP
+MoveCmd { amt: 5, from_column: 5, to_column: 8 }
+0:SGNHMRBQBTCWG
+1:
+2:MNLLWHDTD
+3:C
+4:WGC
+5:JBDWNGQJWNH
+6:L
+7:
+8:MPHNLPTWSRVPPTNDZN
+MoveCmd { amt: 5, from_column: 5, to_column: 6 }
+0:SGNHMRBQBTCWG
+1:
+2:MNLLWHDTD
+3:C
+4:WGC
+5:JBDWNG
+6:LQJWNH
+7:
+8:MPHNLPTWSRVPPTNDZN
+MoveCmd { amt: 13, from_column: 8, to_column: 2 }
+0:SGNHMRBQBTCWG
+1:
+2:MNLLWHDTDPTWSRVPPTNDZN
+3:C
+4:WGC
+5:JBDWNG
+6:LQJWNH
+7:
+8:MPHNL
+MoveCmd { amt: 5, from_column: 0, to_column: 7 }
+0:SGNHMRBQ
+1:
+2:MNLLWHDTDPTWSRVPPTNDZN
+3:C
+4:WGC
+5:JBDWNG
+6:LQJWNH
+7:BTCWG
+8:MPHNL
+MoveCmd { amt: 4, from_column: 7, to_column: 3 }
+0:SGNHMRBQ
+1:
+2:MNLLWHDTDPTWSRVPPTNDZN
+3:CTCWG
+4:WGC
+5:JBDWNG
+6:LQJWNH
+7:B
+8:MPHNL
+MoveCmd { amt: 10, from_column: 2, to_column: 1 }
+0:SGNHMRBQ
+1:SRVPPTNDZN
+2:MNLLWHDTDPTW
+3:CTCWG
+4:WGC
+5:JBDWNG
+6:LQJWNH
+7:B
+8:MPHNL
+MoveCmd { amt: 3, from_column: 5, to_column: 0 }
+0:SGNHMRBQWNG
+1:SRVPPTNDZN
+2:MNLLWHDTDPTW
+3:CTCWG
+4:WGC
+5:JBD
+6:LQJWNH
+7:B
+8:MPHNL
+MoveCmd { amt: 2, from_column: 6, to_column: 8 }
+0:SGNHMRBQWNG
+1:SRVPPTNDZN
+2:MNLLWHDTDPTW
+3:CTCWG
+4:WGC
+5:JBD
+6:LQJW
+7:B
+8:MPHNLNH
+MoveCmd { amt: 1, from_column: 7, to_column: 2 }
+0:SGNHMRBQWNG
+1:SRVPPTNDZN
+2:MNLLWHDTDPTWB
+3:CTCWG
+4:WGC
+5:JBD
+6:LQJW
+7:
+8:MPHNLNH
+MoveCmd { amt: 1, from_column: 6, to_column: 2 }
+0:SGNHMRBQWNG
+1:SRVPPTNDZN
+2:MNLLWHDTDPTWBW
+3:CTCWG
+4:WGC
+5:JBD
+6:LQJ
+7:
+8:MPHNLNH
+MoveCmd { amt: 1, from_column: 8, to_column: 4 }
+0:SGNHMRBQWNG
+1:SRVPPTNDZN
+2:MNLLWHDTDPTWBW
+3:CTCWG
+4:WGCH
+5:JBD
+6:LQJ
+7:
+8:MPHNLN
+MoveCmd { amt: 1, from_column: 5, to_column: 2 }
+0:SGNHMRBQWNG
+1:SRVPPTNDZN
+2:MNLLWHDTDPTWBWD
+3:CTCWG
+4:WGCH
+5:JB
+6:LQJ
+7:
+8:MPHNLN
+MoveCmd { amt: 7, from_column: 1, to_column: 3 }
+0:SGNHMRBQWNG
+1:SRV
+2:MNLLWHDTDPTWBWD
+3:CTCWGPPTNDZN
+4:WGCH
+5:JB
+6:LQJ
+7:
+8:MPHNLN
+MoveCmd { amt: 3, from_column: 4, to_column: 1 }
+0:SGNHMRBQWNG
+1:SRVGCH
+2:MNLLWHDTDPTWBWD
+3:CTCWGPPTNDZN
+4:W
+5:JB
+6:LQJ
+7:
+8:MPHNLN
+MoveCmd { amt: 8, from_column: 2, to_column: 4 }
+0:SGNHMRBQWNG
+1:SRVGCH
+2:MNLLWHD
+3:CTCWGPPTNDZN
+4:WTDPTWBWD
+5:JB
+6:LQJ
+7:
+8:MPHNLN
+MoveCmd { amt: 7, from_column: 3, to_column: 2 }
+0:SGNHMRBQWNG
+1:SRVGCH
+2:MNLLWHDPPTNDZN
+3:CTCWG
+4:WTDPTWBWD
+5:JB
+6:LQJ
+7:
+8:MPHNLN
+MoveCmd { amt: 5, from_column: 8, to_column: 6 }
+0:SGNHMRBQWNG
+1:SRVGCH
+2:MNLLWHDPPTNDZN
+3:CTCWG
+4:WTDPTWBWD
+5:JB
+6:LQJPHNLN
+7:
+8:M
+MoveCmd { amt: 1, from_column: 6, to_column: 0 }
+0:SGNHMRBQWNGN
+1:SRVGCH
+2:MNLLWHDPPTNDZN
+3:CTCWG
+4:WTDPTWBWD
+5:JB
+6:LQJPHNL
+7:
+8:M
+MoveCmd { amt: 9, from_column: 0, to_column: 7 }
+0:SGN
+1:SRVGCH
+2:MNLLWHDPPTNDZN
+3:CTCWG
+4:WTDPTWBWD
+5:JB
+6:LQJPHNL
+7:HMRBQWNGN
+8:M
+MoveCmd { amt: 9, from_column: 4, to_column: 7 }
+0:SGN
+1:SRVGCH
+2:MNLLWHDPPTNDZN
+3:CTCWG
+4:
+5:JB
+6:LQJPHNL
+7:HMRBQWNGNWTDPTWBWD
+8:M
+MoveCmd { amt: 2, from_column: 6, to_column: 7 }
+0:SGN
+1:SRVGCH
+2:MNLLWHDPPTNDZN
+3:CTCWG
+4:
+5:JB
+6:LQJPH
+7:HMRBQWNGNWTDPTWBWDNL
+8:M
+MoveCmd { amt: 3, from_column: 7, to_column: 0 }
+0:SGNDNL
+1:SRVGCH
+2:MNLLWHDPPTNDZN
+3:CTCWG
+4:
+5:JB
+6:LQJPH
+7:HMRBQWNGNWTDPTWBW
+8:M
+MoveCmd { amt: 10, from_column: 2, to_column: 5 }
+0:SGNDNL
+1:SRVGCH
+2:MNLL
+3:CTCWG
+4:
+5:JBWHDPPTNDZN
+6:LQJPH
+7:HMRBQWNGNWTDPTWBW
+8:M
+MoveCmd { amt: 1, from_column: 0, to_column: 5 }
+0:SGNDN
+1:SRVGCH
+2:MNLL
+3:CTCWG
+4:
+5:JBWHDPPTNDZNL
+6:LQJPH
+7:HMRBQWNGNWTDPTWBW
+8:M
+MoveCmd { amt: 5, from_column: 0, to_column: 6 }
+0:
+1:SRVGCH
+2:MNLL
+3:CTCWG
+4:
+5:JBWHDPPTNDZNL
+6:LQJPHSGNDN
+7:HMRBQWNGNWTDPTWBW
+8:M
+MoveCmd { amt: 3, from_column: 1, to_column: 7 }
+0:
+1:SRV
+2:MNLL
+3:CTCWG
+4:
+5:JBWHDPPTNDZNL
+6:LQJPHSGNDN
+7:HMRBQWNGNWTDPTWBWGCH
+8:M
+MoveCmd { amt: 7, from_column: 7, to_column: 5 }
+0:
+1:SRV
+2:MNLL
+3:CTCWG
+4:
+5:JBWHDPPTNDZNLTWBWGCH
+6:LQJPHSGNDN
+7:HMRBQWNGNWTDP
+8:M
+MoveCmd { amt: 7, from_column: 7, to_column: 5 }
+0:
+1:SRV
+2:MNLL
+3:CTCWG
+4:
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDP
+6:LQJPHSGNDN
+7:HMRBQW
+8:M
+MoveCmd { amt: 1, from_column: 2, to_column: 4 }
+0:
+1:SRV
+2:MNL
+3:CTCWG
+4:L
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDP
+6:LQJPHSGNDN
+7:HMRBQW
+8:M
+MoveCmd { amt: 5, from_column: 6, to_column: 8 }
+0:
+1:SRV
+2:MNL
+3:CTCWG
+4:L
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDP
+6:LQJPH
+7:HMRBQW
+8:MSGNDN
+MoveCmd { amt: 4, from_column: 7, to_column: 3 }
+0:
+1:SRV
+2:MNL
+3:CTCWGRBQW
+4:L
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDP
+6:LQJPH
+7:HM
+8:MSGNDN
+MoveCmd { amt: 3, from_column: 1, to_column: 7 }
+0:
+1:
+2:MNL
+3:CTCWGRBQW
+4:L
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDP
+6:LQJPH
+7:HMSRV
+8:MSGNDN
+MoveCmd { amt: 1, from_column: 6, to_column: 7 }
+0:
+1:
+2:MNL
+3:CTCWGRBQW
+4:L
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDP
+6:LQJP
+7:HMSRVH
+8:MSGNDN
+MoveCmd { amt: 3, from_column: 2, to_column: 8 }
+0:
+1:
+2:
+3:CTCWGRBQW
+4:L
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDP
+6:LQJP
+7:HMSRVH
+8:MSGNDNMNL
+MoveCmd { amt: 3, from_column: 6, to_column: 3 }
+0:
+1:
+2:
+3:CTCWGRBQWQJP
+4:L
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDP
+6:L
+7:HMSRVH
+8:MSGNDNMNL
+MoveCmd { amt: 1, from_column: 6, to_column: 1 }
+0:
+1:L
+2:
+3:CTCWGRBQWQJP
+4:L
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDP
+6:
+7:HMSRVH
+8:MSGNDNMNL
+MoveCmd { amt: 9, from_column: 8, to_column: 0 }
+0:MSGNDNMNL
+1:L
+2:
+3:CTCWGRBQWQJP
+4:L
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDP
+6:
+7:HMSRVH
+8:
+MoveCmd { amt: 5, from_column: 0, to_column: 8 }
+0:MSGN
+1:L
+2:
+3:CTCWGRBQWQJP
+4:L
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDP
+6:
+7:HMSRVH
+8:DNMNL
+MoveCmd { amt: 4, from_column: 7, to_column: 5 }
+0:MSGN
+1:L
+2:
+3:CTCWGRBQWQJP
+4:L
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDPSRVH
+6:
+7:HM
+8:DNMNL
+MoveCmd { amt: 1, from_column: 1, to_column: 6 }
+0:MSGN
+1:
+2:
+3:CTCWGRBQWQJP
+4:L
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDPSRVH
+6:L
+7:HM
+8:DNMNL
+MoveCmd { amt: 1, from_column: 4, to_column: 2 }
+0:MSGN
+1:
+2:L
+3:CTCWGRBQWQJP
+4:
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDPSRVH
+6:L
+7:HM
+8:DNMNL
+MoveCmd { amt: 1, from_column: 2, to_column: 6 }
+0:MSGN
+1:
+2:
+3:CTCWGRBQWQJP
+4:
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDPSRVH
+6:LL
+7:HM
+8:DNMNL
+MoveCmd { amt: 1, from_column: 0, to_column: 8 }
+0:MSG
+1:
+2:
+3:CTCWGRBQWQJP
+4:
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDPSRVH
+6:LL
+7:HM
+8:DNMNLN
+MoveCmd { amt: 1, from_column: 0, to_column: 6 }
+0:MS
+1:
+2:
+3:CTCWGRBQWQJP
+4:
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDPSRVH
+6:LLG
+7:HM
+8:DNMNLN
+MoveCmd { amt: 5, from_column: 8, to_column: 5 }
+0:MS
+1:
+2:
+3:CTCWGRBQWQJP
+4:
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDPSRVHNMNLN
+6:LLG
+7:HM
+8:D
+MoveCmd { amt: 2, from_column: 6, to_column: 5 }
+0:MS
+1:
+2:
+3:CTCWGRBQWQJP
+4:
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDPSRVHNMNLNLG
+6:L
+7:HM
+8:D
+MoveCmd { amt: 10, from_column: 3, to_column: 7 }
+0:MS
+1:
+2:
+3:CT
+4:
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDPSRVHNMNLNLG
+6:L
+7:HMCWGRBQWQJP
+8:D
+MoveCmd { amt: 1, from_column: 3, to_column: 1 }
+0:MS
+1:T
+2:
+3:C
+4:
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDPSRVHNMNLNLG
+6:L
+7:HMCWGRBQWQJP
+8:D
+MoveCmd { amt: 1, from_column: 3, to_column: 0 }
+0:MSC
+1:T
+2:
+3:
+4:
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDPSRVHNMNLNLG
+6:L
+7:HMCWGRBQWQJP
+8:D
+MoveCmd { amt: 1, from_column: 8, to_column: 1 }
+0:MSC
+1:TD
+2:
+3:
+4:
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDPSRVHNMNLNLG
+6:L
+7:HMCWGRBQWQJP
+8:
+MoveCmd { amt: 3, from_column: 0, to_column: 1 }
+0:
+1:TDMSC
+2:
+3:
+4:
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDPSRVHNMNLNLG
+6:L
+7:HMCWGRBQWQJP
+8:
+MoveCmd { amt: 1, from_column: 6, to_column: 2 }
+0:
+1:TDMSC
+2:L
+3:
+4:
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDPSRVHNMNLNLG
+6:
+7:HMCWGRBQWQJP
+8:
+MoveCmd { amt: 1, from_column: 1, to_column: 0 }
+0:C
+1:TDMS
+2:L
+3:
+4:
+5:JBWHDPPTNDZNLTWBWGCHNGNWTDPSRVHNMNLNLG
+6:
+7:HMCWGRBQWQJP
+8:
+MoveCmd { amt: 16, from_column: 5, to_column: 2 }
+0:C
+1:TDMS
+2:LNWTDPSRVHNMNLNLG
+3:
+4:
+5:JBWHDPPTNDZNLTWBWGCHNG
+6:
+7:HMCWGRBQWQJP
+8:
+MoveCmd { amt: 9, from_column: 5, to_column: 0 }
+0:CTWBWGCHNG
+1:TDMS
+2:LNWTDPSRVHNMNLNLG
+3:
+4:
+5:JBWHDPPTNDZNL
+6:
+7:HMCWGRBQWQJP
+8:
+MoveCmd { amt: 6, from_column: 5, to_column: 0 }
+0:CTWBWGCHNGTNDZNL
+1:TDMS
+2:LNWTDPSRVHNMNLNLG
+3:
+4:
+5:JBWHDPP
+6:
+7:HMCWGRBQWQJP
+8:
+MoveCmd { amt: 5, from_column: 5, to_column: 0 }
+0:CTWBWGCHNGTNDZNLWHDPP
+1:TDMS
+2:LNWTDPSRVHNMNLNLG
+3:
+4:
+5:JB
+6:
+7:HMCWGRBQWQJP
+8:
+MoveCmd { amt: 3, from_column: 7, to_column: 0 }
+0:CTWBWGCHNGTNDZNLWHDPPQJP
+1:TDMS
+2:LNWTDPSRVHNMNLNLG
+3:
+4:
+5:JB
+6:
+7:HMCWGRBQW
+8:
+MoveCmd { amt: 11, from_column: 2, to_column: 3 }
+0:CTWBWGCHNGTNDZNLWHDPPQJP
+1:TDMS
+2:LNWTDP
+3:SRVHNMNLNLG
+4:
+5:JB
+6:
+7:HMCWGRBQW
+8:
+MoveCmd { amt: 1, from_column: 5, to_column: 1 }
+0:CTWBWGCHNGTNDZNLWHDPPQJP
+1:TDMSB
+2:LNWTDP
+3:SRVHNMNLNLG
+4:
+5:J
+6:
+7:HMCWGRBQW
+8:
+MoveCmd { amt: 3, from_column: 7, to_column: 1 }
+0:CTWBWGCHNGTNDZNLWHDPPQJP
+1:TDMSBBQW
+2:LNWTDP
+3:SRVHNMNLNLG
+4:
+5:J
+6:
+7:HMCWGR
+8:
+MoveCmd { amt: 4, from_column: 0, to_column: 5 }
+0:CTWBWGCHNGTNDZNLWHDP
+1:TDMSBBQW
+2:LNWTDP
+3:SRVHNMNLNLG
+4:
+5:JPQJP
+6:
+7:HMCWGR
+8:
+MoveCmd { amt: 5, from_column: 2, to_column: 1 }
+0:CTWBWGCHNGTNDZNLWHDP
+1:TDMSBBQWNWTDP
+2:L
+3:SRVHNMNLNLG
+4:
+5:JPQJP
+6:
+7:HMCWGR
+8:
+MoveCmd { amt: 1, from_column: 1, to_column: 4 }
+0:CTWBWGCHNGTNDZNLWHDP
+1:TDMSBBQWNWTD
+2:L
+3:SRVHNMNLNLG
+4:P
+5:JPQJP
+6:
+7:HMCWGR
+8:
+MoveCmd { amt: 1, from_column: 7, to_column: 4 }
+0:CTWBWGCHNGTNDZNLWHDP
+1:TDMSBBQWNWTD
+2:L
+3:SRVHNMNLNLG
+4:PR
+5:JPQJP
+6:
+7:HMCWG
+8:
+MoveCmd { amt: 5, from_column: 7, to_column: 2 }
+0:CTWBWGCHNGTNDZNLWHDP
+1:TDMSBBQWNWTD
+2:LHMCWG
+3:SRVHNMNLNLG
+4:PR
+5:JPQJP
+6:
+7:
+8:
+MoveCmd { amt: 4, from_column: 5, to_column: 8 }
+0:CTWBWGCHNGTNDZNLWHDP
+1:TDMSBBQWNWTD
+2:LHMCWG
+3:SRVHNMNLNLG
+4:PR
+5:J
+6:
+7:
+8:PQJP
+MoveCmd { amt: 2, from_column: 8, to_column: 5 }
+0:CTWBWGCHNGTNDZNLWHDP
+1:TDMSBBQWNWTD
+2:LHMCWG
+3:SRVHNMNLNLG
+4:PR
+5:JJP
+6:
+7:
+8:PQ
+MoveCmd { amt: 3, from_column: 2, to_column: 8 }
+0:CTWBWGCHNGTNDZNLWHDP
+1:TDMSBBQWNWTD
+2:LHM
+3:SRVHNMNLNLG
+4:PR
+5:JJP
+6:
+7:
+8:PQCWG
+MoveCmd { amt: 1, from_column: 4, to_column: 6 }
+0:CTWBWGCHNGTNDZNLWHDP
+1:TDMSBBQWNWTD
+2:LHM
+3:SRVHNMNLNLG
+4:P
+5:JJP
+6:R
+7:
+8:PQCWG
+MoveCmd { amt: 5, from_column: 0, to_column: 5 }
+0:CTWBWGCHNGTNDZN
+1:TDMSBBQWNWTD
+2:LHM
+3:SRVHNMNLNLG
+4:P
+5:JJPLWHDP
+6:R
+7:
+8:PQCWG
+MoveCmd { amt: 3, from_column: 5, to_column: 3 }
+0:CTWBWGCHNGTNDZN
+1:TDMSBBQWNWTD
+2:LHM
+3:SRVHNMNLNLGHDP
+4:P
+5:JJPLW
+6:R
+7:
+8:PQCWG
+MoveCmd { amt: 2, from_column: 1, to_column: 8 }
+0:CTWBWGCHNGTNDZN
+1:TDMSBBQWNW
+2:LHM
+3:SRVHNMNLNLGHDP
+4:P
+5:JJPLW
+6:R
+7:
+8:PQCWGTD
+MoveCmd { amt: 8, from_column: 3, to_column: 1 }
+0:CTWBWGCHNGTNDZN
+1:TDMSBBQWNWNLNLGHDP
+2:LHM
+3:SRVHNM
+4:P
+5:JJPLW
+6:R
+7:
+8:PQCWGTD
+MoveCmd { amt: 9, from_column: 0, to_column: 6 }
+0:CTWBWG
+1:TDMSBBQWNWNLNLGHDP
+2:LHM
+3:SRVHNM
+4:P
+5:JJPLW
+6:RCHNGTNDZN
+7:
+8:PQCWGTD
+MoveCmd { amt: 3, from_column: 2, to_column: 4 }
+0:CTWBWG
+1:TDMSBBQWNWNLNLGHDP
+2:
+3:SRVHNM
+4:PLHM
+5:JJPLW
+6:RCHNGTNDZN
+7:
+8:PQCWGTD
+MoveCmd { amt: 3, from_column: 4, to_column: 6 }
+0:CTWBWG
+1:TDMSBBQWNWNLNLGHDP
+2:
+3:SRVHNM
+4:P
+5:JJPLW
+6:RCHNGTNDZNLHM
+7:
+8:PQCWGTD
+MoveCmd { amt: 12, from_column: 6, to_column: 0 }
+0:CTWBWGCHNGTNDZNLHM
+1:TDMSBBQWNWNLNLGHDP
+2:
+3:SRVHNM
+4:P
+5:JJPLW
+6:R
+7:
+8:PQCWGTD
+MoveCmd { amt: 5, from_column: 3, to_column: 5 }
+0:CTWBWGCHNGTNDZNLHM
+1:TDMSBBQWNWNLNLGHDP
+2:
+3:S
+4:P
+5:JJPLWRVHNM
+6:R
+7:
+8:PQCWGTD
+MoveCmd { amt: 1, from_column: 3, to_column: 4 }
+0:CTWBWGCHNGTNDZNLHM
+1:TDMSBBQWNWNLNLGHDP
+2:
+3:
+4:PS
+5:JJPLWRVHNM
+6:R
+7:
+8:PQCWGTD
+MoveCmd { amt: 7, from_column: 0, to_column: 7 }
+0:CTWBWGCHNGT
+1:TDMSBBQWNWNLNLGHDP
+2:
+3:
+4:PS
+5:JJPLWRVHNM
+6:R
+7:NDZNLHM
+8:PQCWGTD
+MoveCmd { amt: 5, from_column: 8, to_column: 2 }
+0:CTWBWGCHNGT
+1:TDMSBBQWNWNLNLGHDP
+2:CWGTD
+3:
+4:PS
+5:JJPLWRVHNM
+6:R
+7:NDZNLHM
+8:PQ
+MoveCmd { amt: 1, from_column: 6, to_column: 3 }
+0:CTWBWGCHNGT
+1:TDMSBBQWNWNLNLGHDP
+2:CWGTD
+3:R
+4:PS
+5:JJPLWRVHNM
+6:
+7:NDZNLHM
+8:PQ
+MoveCmd { amt: 10, from_column: 0, to_column: 7 }
+0:C
+1:TDMSBBQWNWNLNLGHDP
+2:CWGTD
+3:R
+4:PS
+5:JJPLWRVHNM
+6:
+7:NDZNLHMTWBWGCHNGT
+8:PQ
+MoveCmd { amt: 1, from_column: 3, to_column: 7 }
+0:C
+1:TDMSBBQWNWNLNLGHDP
+2:CWGTD
+3:
+4:PS
+5:JJPLWRVHNM
+6:
+7:NDZNLHMTWBWGCHNGTR
+8:PQ
+MoveCmd { amt: 4, from_column: 5, to_column: 7 }
+0:C
+1:TDMSBBQWNWNLNLGHDP
+2:CWGTD
+3:
+4:PS
+5:JJPLWR
+6:
+7:NDZNLHMTWBWGCHNGTRVHNM
+8:PQ
+MoveCmd { amt: 1, from_column: 5, to_column: 8 }
+0:C
+1:TDMSBBQWNWNLNLGHDP
+2:CWGTD
+3:
+4:PS
+5:JJPLW
+6:
+7:NDZNLHMTWBWGCHNGTRVHNM
+8:PQR
+MoveCmd { amt: 2, from_column: 4, to_column: 0 }
+0:CPS
+1:TDMSBBQWNWNLNLGHDP
+2:CWGTD
+3:
+4:
+5:JJPLW
+6:
+7:NDZNLHMTWBWGCHNGTRVHNM
+8:PQR
+MoveCmd { amt: 4, from_column: 2, to_column: 3 }
+0:CPS
+1:TDMSBBQWNWNLNLGHDP
+2:C
+3:WGTD
+4:
+5:JJPLW
+6:
+7:NDZNLHMTWBWGCHNGTRVHNM
+8:PQR
+MoveCmd { amt: 1, from_column: 0, to_column: 7 }
+0:CP
+1:TDMSBBQWNWNLNLGHDP
+2:C
+3:WGTD
+4:
+5:JJPLW
+6:
+7:NDZNLHMTWBWGCHNGTRVHNMS
+8:PQR
+MoveCmd { amt: 4, from_column: 3, to_column: 6 }
+0:CP
+1:TDMSBBQWNWNLNLGHDP
+2:C
+3:
+4:
+5:JJPLW
+6:WGTD
+7:NDZNLHMTWBWGCHNGTRVHNMS
+8:PQR
+MoveCmd { amt: 2, from_column: 0, to_column: 7 }
+0:
+1:TDMSBBQWNWNLNLGHDP
+2:C
+3:
+4:
+5:JJPLW
+6:WGTD
+7:NDZNLHMTWBWGCHNGTRVHNMSCP
+8:PQR
+MoveCmd { amt: 4, from_column: 5, to_column: 0 }
+0:JPLW
+1:TDMSBBQWNWNLNLGHDP
+2:C
+3:
+4:
+5:J
+6:WGTD
+7:NDZNLHMTWBWGCHNGTRVHNMSCP
+8:PQR
+MoveCmd { amt: 3, from_column: 8, to_column: 4 }
+0:JPLW
+1:TDMSBBQWNWNLNLGHDP
+2:C
+3:
+4:PQR
+5:J
+6:WGTD
+7:NDZNLHMTWBWGCHNGTRVHNMSCP
+8:
+MoveCmd { amt: 1, from_column: 5, to_column: 4 }
+0:JPLW
+1:TDMSBBQWNWNLNLGHDP
+2:C
+3:
+4:PQRJ
+5:
+6:WGTD
+7:NDZNLHMTWBWGCHNGTRVHNMSCP
+8:
+MoveCmd { amt: 1, from_column: 2, to_column: 6 }
+0:JPLW
+1:TDMSBBQWNWNLNLGHDP
+2:
+3:
+4:PQRJ
+5:
+6:WGTDC
+7:NDZNLHMTWBWGCHNGTRVHNMSCP
+8:
+MoveCmd { amt: 24, from_column: 7, to_column: 5 }
+0:JPLW
+1:TDMSBBQWNWNLNLGHDP
+2:
+3:
+4:PQRJ
+5:DZNLHMTWBWGCHNGTRVHNMSCP
+6:WGTDC
+7:N
+8:
+MoveCmd { amt: 3, from_column: 5, to_column: 4 }
+0:JPLW
+1:TDMSBBQWNWNLNLGHDP
+2:
+3:
+4:PQRJSCP
+5:DZNLHMTWBWGCHNGTRVHNM
+6:WGTDC
+7:N
+8:
+MoveCmd { amt: 4, from_column: 5, to_column: 6 }
+0:JPLW
+1:TDMSBBQWNWNLNLGHDP
+2:
+3:
+4:PQRJSCP
+5:DZNLHMTWBWGCHNGTR
+6:WGTDCVHNM
+7:N
+8:
+MoveCmd { amt: 1, from_column: 0, to_column: 6 }
+0:JPL
+1:TDMSBBQWNWNLNLGHDP
+2:
+3:
+4:PQRJSCP
+5:DZNLHMTWBWGCHNGTR
+6:WGTDCVHNMW
+7:N
+8:
+MoveCmd { amt: 7, from_column: 6, to_column: 5 }
+0:JPL
+1:TDMSBBQWNWNLNLGHDP
+2:
+3:
+4:PQRJSCP
+5:DZNLHMTWBWGCHNGTRDCVHNMW
+6:WGT
+7:N
+8:
+MoveCmd { amt: 7, from_column: 4, to_column: 2 }
+0:JPL
+1:TDMSBBQWNWNLNLGHDP
+2:PQRJSCP
+3:
+4:
+5:DZNLHMTWBWGCHNGTRDCVHNMW
+6:WGT
+7:N
+8:
+MoveCmd { amt: 13, from_column: 5, to_column: 7 }
+0:JPL
+1:TDMSBBQWNWNLNLGHDP
+2:PQRJSCP
+3:
+4:
+5:DZNLHMTWBWG
+6:WGT
+7:NCHNGTRDCVHNMW
+8:
+MoveCmd { amt: 3, from_column: 0, to_column: 1 }
+0:
+1:TDMSBBQWNWNLNLGHDPJPL
+2:PQRJSCP
+3:
+4:
+5:DZNLHMTWBWG
+6:WGT
+7:NCHNGTRDCVHNMW
+8:
+MoveCmd { amt: 7, from_column: 5, to_column: 2 }
+0:
+1:TDMSBBQWNWNLNLGHDPJPL
+2:PQRJSCPHMTWBWG
+3:
+4:
+5:DZNL
+6:WGT
+7:NCHNGTRDCVHNMW
+8:
+MoveCmd { amt: 12, from_column: 1, to_column: 3 }
+0:
+1:TDMSBBQWN
+2:PQRJSCPHMTWBWG
+3:WNLNLGHDPJPL
+4:
+5:DZNL
+6:WGT
+7:NCHNGTRDCVHNMW
+8:
+MoveCmd { amt: 4, from_column: 5, to_column: 8 }
+0:
+1:TDMSBBQWN
+2:PQRJSCPHMTWBWG
+3:WNLNLGHDPJPL
+4:
+5:
+6:WGT
+7:NCHNGTRDCVHNMW
+8:DZNL
+MoveCmd { amt: 6, from_column: 2, to_column: 0 }
+0:MTWBWG
+1:TDMSBBQWN
+2:PQRJSCPH
+3:WNLNLGHDPJPL
+4:
+5:
+6:WGT
+7:NCHNGTRDCVHNMW
+8:DZNL
+MoveCmd { amt: 1, from_column: 1, to_column: 3 }
+0:MTWBWG
+1:TDMSBBQW
+2:PQRJSCPH
+3:WNLNLGHDPJPLN
+4:
+5:
+6:WGT
+7:NCHNGTRDCVHNMW
+8:DZNL
+MoveCmd { amt: 2, from_column: 7, to_column: 6 }
+0:MTWBWG
+1:TDMSBBQW
+2:PQRJSCPH
+3:WNLNLGHDPJPLN
+4:
+5:
+6:WGTMW
+7:NCHNGTRDCVHN
+8:DZNL
+MoveCmd { amt: 2, from_column: 1, to_column: 8 }
+0:MTWBWG
+1:TDMSBB
+2:PQRJSCPH
+3:WNLNLGHDPJPLN
+4:
+5:
+6:WGTMW
+7:NCHNGTRDCVHN
+8:DZNLQW
+MoveCmd { amt: 6, from_column: 2, to_column: 3 }
+0:MTWBWG
+1:TDMSBB
+2:PQ
+3:WNLNLGHDPJPLNRJSCPH
+4:
+5:
+6:WGTMW
+7:NCHNGTRDCVHN
+8:DZNLQW
+MoveCmd { amt: 12, from_column: 7, to_column: 1 }
+0:MTWBWG
+1:TDMSBBNCHNGTRDCVHN
+2:PQ
+3:WNLNLGHDPJPLNRJSCPH
+4:
+5:
+6:WGTMW
+7:
+8:DZNLQW
+MoveCmd { amt: 18, from_column: 1, to_column: 4 }
+0:MTWBWG
+1:
+2:PQ
+3:WNLNLGHDPJPLNRJSCPH
+4:TDMSBBNCHNGTRDCVHN
+5:
+6:WGTMW
+7:
+8:DZNLQW
+MoveCmd { amt: 10, from_column: 3, to_column: 2 }
+0:MTWBWG
+1:
+2:PQJPLNRJSCPH
+3:WNLNLGHDP
+4:TDMSBBNCHNGTRDCVHN
+5:
+6:WGTMW
+7:
+8:DZNLQW
+MoveCmd { amt: 4, from_column: 6, to_column: 2 }
+0:MTWBWG
+1:
+2:PQJPLNRJSCPHGTMW
+3:WNLNLGHDP
+4:TDMSBBNCHNGTRDCVHN
+5:
+6:W
+7:
+8:DZNLQW
+MoveCmd { amt: 5, from_column: 3, to_column: 6 }
+0:MTWBWG
+1:
+2:PQJPLNRJSCPHGTMW
+3:WNLN
+4:TDMSBBNCHNGTRDCVHN
+5:
+6:WLGHDP
+7:
+8:DZNLQW
+MoveCmd { amt: 3, from_column: 4, to_column: 1 }
+0:MTWBWG
+1:VHN
+2:PQJPLNRJSCPHGTMW
+3:WNLN
+4:TDMSBBNCHNGTRDC
+5:
+6:WLGHDP
+7:
+8:DZNLQW
+MoveCmd { amt: 4, from_column: 6, to_column: 8 }
+0:MTWBWG
+1:VHN
+2:PQJPLNRJSCPHGTMW
+3:WNLN
+4:TDMSBBNCHNGTRDC
+5:
+6:WL
+7:
+8:DZNLQWGHDP
+MoveCmd { amt: 1, from_column: 4, to_column: 3 }
+0:MTWBWG
+1:VHN
+2:PQJPLNRJSCPHGTMW
+3:WNLNC
+4:TDMSBBNCHNGTRD
+5:
+6:WL
+7:
+8:DZNLQWGHDP
+MoveCmd { amt: 3, from_column: 1, to_column: 0 }
+0:MTWBWGVHN
+1:
+2:PQJPLNRJSCPHGTMW
+3:WNLNC
+4:TDMSBBNCHNGTRD
+5:
+6:WL
+7:
+8:DZNLQWGHDP
+MoveCmd { amt: 4, from_column: 2, to_column: 5 }
+0:MTWBWGVHN
+1:
+2:PQJPLNRJSCPH
+3:WNLNC
+4:TDMSBBNCHNGTRD
+5:GTMW
+6:WL
+7:
+8:DZNLQWGHDP
+MoveCmd { amt: 7, from_column: 4, to_column: 5 }
+0:MTWBWGVHN
+1:
+2:PQJPLNRJSCPH
+3:WNLNC
+4:TDMSBBN
+5:GTMWCHNGTRD
+6:WL
+7:
+8:DZNLQWGHDP
+MoveCmd { amt: 2, from_column: 4, to_column: 6 }
+0:MTWBWGVHN
+1:
+2:PQJPLNRJSCPH
+3:WNLNC
+4:TDMSB
+5:GTMWCHNGTRD
+6:WLBN
+7:
+8:DZNLQWGHDP
+MoveCmd { amt: 5, from_column: 0, to_column: 6 }
+0:MTWB
+1:
+2:PQJPLNRJSCPH
+3:WNLNC
+4:TDMSB
+5:GTMWCHNGTRD
+6:WLBNWGVHN
+7:
+8:DZNLQWGHDP
+MoveCmd { amt: 9, from_column: 6, to_column: 5 }
+0:MTWB
+1:
+2:PQJPLNRJSCPH
+3:WNLNC
+4:TDMSB
+5:GTMWCHNGTRDWLBNWGVHN
+6:
+7:
+8:DZNLQWGHDP
+MoveCmd { amt: 8, from_column: 8, to_column: 7 }
+0:MTWB
+1:
+2:PQJPLNRJSCPH
+3:WNLNC
+4:TDMSB
+5:GTMWCHNGTRDWLBNWGVHN
+6:
+7:NLQWGHDP
+8:DZ
+MoveCmd { amt: 1, from_column: 0, to_column: 2 }
+0:MTW
+1:
+2:PQJPLNRJSCPHB
+3:WNLNC
+4:TDMSB
+5:GTMWCHNGTRDWLBNWGVHN
+6:
+7:NLQWGHDP
+8:DZ
+MoveCmd { amt: 1, from_column: 2, to_column: 0 }
+0:MTWB
+1:
+2:PQJPLNRJSCPH
+3:WNLNC
+4:TDMSB
+5:GTMWCHNGTRDWLBNWGVHN
+6:
+7:NLQWGHDP
+8:DZ
+MoveCmd { amt: 10, from_column: 2, to_column: 8 }
+0:MTWB
+1:
+2:PQ
+3:WNLNC
+4:TDMSB
+5:GTMWCHNGTRDWLBNWGVHN
+6:
+7:NLQWGHDP
+8:DZJPLNRJSCPH
+MoveCmd { amt: 8, from_column: 7, to_column: 3 }
+0:MTWB
+1:
+2:PQ
+3:WNLNCNLQWGHDP
+4:TDMSB
+5:GTMWCHNGTRDWLBNWGVHN
+6:
+7:
+8:DZJPLNRJSCPH
+MoveCmd { amt: 1, from_column: 2, to_column: 7 }
+0:MTWB
+1:
+2:P
+3:WNLNCNLQWGHDP
+4:TDMSB
+5:GTMWCHNGTRDWLBNWGVHN
+6:
+7:Q
+8:DZJPLNRJSCPH
+MoveCmd { amt: 1, from_column: 0, to_column: 2 }
+0:MTW
+1:
+2:PB
+3:WNLNCNLQWGHDP
+4:TDMSB
+5:GTMWCHNGTRDWLBNWGVHN
+6:
+7:Q
+8:DZJPLNRJSCPH
+MoveCmd { amt: 6, from_column: 8, to_column: 0 }
+0:MTWRJSCPH
+1:
+2:PB
+3:WNLNCNLQWGHDP
+4:TDMSB
+5:GTMWCHNGTRDWLBNWGVHN
+6:
+7:Q
+8:DZJPLN
+MoveCmd { amt: 5, from_column: 4, to_column: 2 }
+0:MTWRJSCPH
+1:
+2:PBTDMSB
+3:WNLNCNLQWGHDP
+4:
+5:GTMWCHNGTRDWLBNWGVHN
+6:
+7:Q
+8:DZJPLN
+MoveCmd { amt: 5, from_column: 2, to_column: 5 }
+0:MTWRJSCPH
+1:
+2:PB
+3:WNLNCNLQWGHDP
+4:
+5:GTMWCHNGTRDWLBNWGVHNTDMSB
+6:
+7:Q
+8:DZJPLN
+MoveCmd { amt: 1, from_column: 7, to_column: 8 }
+0:MTWRJSCPH
+1:
+2:PB
+3:WNLNCNLQWGHDP
+4:
+5:GTMWCHNGTRDWLBNWGVHNTDMSB
+6:
+7:
+8:DZJPLNQ
+MoveCmd { amt: 19, from_column: 5, to_column: 1 }
+0:MTWRJSCPH
+1:NGTRDWLBNWGVHNTDMSB
+2:PB
+3:WNLNCNLQWGHDP
+4:
+5:GTMWCH
+6:
+7:
+8:DZJPLNQ
+MoveCmd { amt: 13, from_column: 3, to_column: 0 }
+0:MTWRJSCPHWNLNCNLQWGHDP
+1:NGTRDWLBNWGVHNTDMSB
+2:PB
+3:
+4:
+5:GTMWCH
+6:
+7:
+8:DZJPLNQ
+MoveCmd { amt: 4, from_column: 0, to_column: 4 }
+0:MTWRJSCPHWNLNCNLQW
+1:NGTRDWLBNWGVHNTDMSB
+2:PB
+3:
+4:GHDP
+5:GTMWCH
+6:
+7:
+8:DZJPLNQ
+MoveCmd { amt: 6, from_column: 1, to_column: 0 }
+0:MTWRJSCPHWNLNCNLQWNTDMSB
+1:NGTRDWLBNWGVH
+2:PB
+3:
+4:GHDP
+5:GTMWCH
+6:
+7:
+8:DZJPLNQ
+MoveCmd { amt: 2, from_column: 8, to_column: 3 }
+0:MTWRJSCPHWNLNCNLQWNTDMSB
+1:NGTRDWLBNWGVH
+2:PB
+3:NQ
+4:GHDP
+5:GTMWCH
+6:
+7:
+8:DZJPL
+MoveCmd { amt: 1, from_column: 2, to_column: 0 }
+0:MTWRJSCPHWNLNCNLQWNTDMSBB
+1:NGTRDWLBNWGVH
+2:P
+3:NQ
+4:GHDP
+5:GTMWCH
+6:
+7:
+8:DZJPL
+MoveCmd { amt: 9, from_column: 1, to_column: 2 }
+0:MTWRJSCPHWNLNCNLQWNTDMSBB
+1:NGTR
+2:PDWLBNWGVH
+3:NQ
+4:GHDP
+5:GTMWCH
+6:
+7:
+8:DZJPL
+MoveCmd { amt: 4, from_column: 4, to_column: 0 }
+0:MTWRJSCPHWNLNCNLQWNTDMSBBGHDP
+1:NGTR
+2:PDWLBNWGVH
+3:NQ
+4:
+5:GTMWCH
+6:
+7:
+8:DZJPL
+MoveCmd { amt: 5, from_column: 8, to_column: 5 }
+0:MTWRJSCPHWNLNCNLQWNTDMSBBGHDP
+1:NGTR
+2:PDWLBNWGVH
+3:NQ
+4:
+5:GTMWCHDZJPL
+6:
+7:
+8:
+MoveCmd { amt: 4, from_column: 2, to_column: 3 }
+0:MTWRJSCPHWNLNCNLQWNTDMSBBGHDP
+1:NGTR
+2:PDWLBN
+3:NQWGVH
+4:
+5:GTMWCHDZJPL
+6:
+7:
+8:
+MoveCmd { amt: 3, from_column: 1, to_column: 6 }
+0:MTWRJSCPHWNLNCNLQWNTDMSBBGHDP
+1:N
+2:PDWLBN
+3:NQWGVH
+4:
+5:GTMWCHDZJPL
+6:GTR
+7:
+8:
+MoveCmd { amt: 2, from_column: 3, to_column: 7 }
+0:MTWRJSCPHWNLNCNLQWNTDMSBBGHDP
+1:N
+2:PDWLBN
+3:NQWG
+4:
+5:GTMWCHDZJPL
+6:GTR
+7:VH
+8:
+MoveCmd { amt: 6, from_column: 0, to_column: 8 }
+0:MTWRJSCPHWNLNCNLQWNTDMS
+1:N
+2:PDWLBN
+3:NQWG
+4:
+5:GTMWCHDZJPL
+6:GTR
+7:VH
+8:BBGHDP
+MoveCmd { amt: 1, from_column: 7, to_column: 5 }
+0:MTWRJSCPHWNLNCNLQWNTDMS
+1:N
+2:PDWLBN
+3:NQWG
+4:
+5:GTMWCHDZJPLH
+6:GTR
+7:V
+8:BBGHDP
+MoveCmd { amt: 4, from_column: 0, to_column: 4 }
+0:MTWRJSCPHWNLNCNLQWN
+1:N
+2:PDWLBN
+3:NQWG
+4:TDMS
+5:GTMWCHDZJPLH
+6:GTR
+7:V
+8:BBGHDP
+MoveCmd { amt: 3, from_column: 3, to_column: 4 }
+0:MTWRJSCPHWNLNCNLQWN
+1:N
+2:PDWLBN
+3:N
+4:TDMSQWG
+5:GTMWCHDZJPLH
+6:GTR
+7:V
+8:BBGHDP
+MoveCmd { amt: 1, from_column: 6, to_column: 1 }
+0:MTWRJSCPHWNLNCNLQWN
+1:NR
+2:PDWLBN
+3:N
+4:TDMSQWG
+5:GTMWCHDZJPLH
+6:GT
+7:V
+8:BBGHDP
+MoveCmd { amt: 11, from_column: 0, to_column: 5 }
+0:MTWRJSCP
+1:NR
+2:PDWLBN
+3:N
+4:TDMSQWG
+5:GTMWCHDZJPLHHWNLNCNLQWN
+6:GT
+7:V
+8:BBGHDP
+MoveCmd { amt: 1, from_column: 1, to_column: 6 }
+0:MTWRJSCP
+1:N
+2:PDWLBN
+3:N
+4:TDMSQWG
+5:GTMWCHDZJPLHHWNLNCNLQWN
+6:GTR
+7:V
+8:BBGHDP
+MoveCmd { amt: 5, from_column: 2, to_column: 6 }
+0:MTWRJSCP
+1:N
+2:P
+3:N
+4:TDMSQWG
+5:GTMWCHDZJPLHHWNLNCNLQWN
+6:GTRDWLBN
+7:V
+8:BBGHDP
+MoveCmd { amt: 1, from_column: 2, to_column: 3 }
+0:MTWRJSCP
+1:N
+2:
+3:NP
+4:TDMSQWG
+5:GTMWCHDZJPLHHWNLNCNLQWN
+6:GTRDWLBN
+7:V
+8:BBGHDP
+MoveCmd { amt: 1, from_column: 3, to_column: 7 }
+0:MTWRJSCP
+1:N
+2:
+3:N
+4:TDMSQWG
+5:GTMWCHDZJPLHHWNLNCNLQWN
+6:GTRDWLBN
+7:VP
+8:BBGHDP
+MoveCmd { amt: 3, from_column: 4, to_column: 5 }
+0:MTWRJSCP
+1:N
+2:
+3:N
+4:TDMS
+5:GTMWCHDZJPLHHWNLNCNLQWNQWG
+6:GTRDWLBN
+7:VP
+8:BBGHDP
+MoveCmd { amt: 8, from_column: 0, to_column: 6 }
+0:
+1:N
+2:
+3:N
+4:TDMS
+5:GTMWCHDZJPLHHWNLNCNLQWNQWG
+6:GTRDWLBNMTWRJSCP
+7:VP
+8:BBGHDP
+MoveCmd { amt: 1, from_column: 7, to_column: 8 }
+0:
+1:N
+2:
+3:N
+4:TDMS
+5:GTMWCHDZJPLHHWNLNCNLQWNQWG
+6:GTRDWLBNMTWRJSCP
+7:V
+8:BBGHDPP
+MoveCmd { amt: 1, from_column: 5, to_column: 8 }
+0:
+1:N
+2:
+3:N
+4:TDMS
+5:GTMWCHDZJPLHHWNLNCNLQWNQW
+6:GTRDWLBNMTWRJSCP
+7:V
+8:BBGHDPPG
+MoveCmd { amt: 1, from_column: 7, to_column: 4 }
+0:
+1:N
+2:
+3:N
+4:TDMSV
+5:GTMWCHDZJPLHHWNLNCNLQWNQW
+6:GTRDWLBNMTWRJSCP
+7:
+8:BBGHDPPG
+MoveCmd { amt: 11, from_column: 5, to_column: 4 }
+0:
+1:N
+2:
+3:N
+4:TDMSVNLNCNLQWNQW
+5:GTMWCHDZJPLHHW
+6:GTRDWLBNMTWRJSCP
+7:
+8:BBGHDPPG
+MoveCmd { amt: 12, from_column: 4, to_column: 1 }
+0:
+1:NVNLNCNLQWNQW
+2:
+3:N
+4:TDMS
+5:GTMWCHDZJPLHHW
+6:GTRDWLBNMTWRJSCP
+7:
+8:BBGHDPPG
+MoveCmd { amt: 1, from_column: 4, to_column: 1 }
+0:
+1:NVNLNCNLQWNQWS
+2:
+3:N
+4:TDM
+5:GTMWCHDZJPLHHW
+6:GTRDWLBNMTWRJSCP
+7:
+8:BBGHDPPG
+MoveCmd { amt: 8, from_column: 6, to_column: 2 }
+0:
+1:NVNLNCNLQWNQWS
+2:MTWRJSCP
+3:N
+4:TDM
+5:GTMWCHDZJPLHHW
+6:GTRDWLBN
+7:
+8:BBGHDPPG
+MoveCmd { amt: 1, from_column: 4, to_column: 5 }
+0:
+1:NVNLNCNLQWNQWS
+2:MTWRJSCP
+3:N
+4:TD
+5:GTMWCHDZJPLHHWM
+6:GTRDWLBN
+7:
+8:BBGHDPPG
+MoveCmd { amt: 2, from_column: 4, to_column: 5 }
+0:
+1:NVNLNCNLQWNQWS
+2:MTWRJSCP
+3:N
+4:
+5:GTMWCHDZJPLHHWMTD
+6:GTRDWLBN
+7:
+8:BBGHDPPG
+MoveCmd { amt: 3, from_column: 6, to_column: 0 }
+0:LBN
+1:NVNLNCNLQWNQWS
+2:MTWRJSCP
+3:N
+4:
+5:GTMWCHDZJPLHHWMTD
+6:GTRDW
+7:
+8:BBGHDPPG
+MoveCmd { amt: 6, from_column: 1, to_column: 5 }
+0:LBN
+1:NVNLNCNL
+2:MTWRJSCP
+3:N
+4:
+5:GTMWCHDZJPLHHWMTDQWNQWS
+6:GTRDW
+7:
+8:BBGHDPPG
+MoveCmd { amt: 1, from_column: 2, to_column: 0 }
+0:LBNP
+1:NVNLNCNL
+2:MTWRJSC
+3:N
+4:
+5:GTMWCHDZJPLHHWMTDQWNQWS
+6:GTRDW
+7:
+8:BBGHDPPG
+MoveCmd { amt: 1, from_column: 3, to_column: 0 }
+0:LBNPN
+1:NVNLNCNL
+2:MTWRJSC
+3:
+4:
+5:GTMWCHDZJPLHHWMTDQWNQWS
+6:GTRDW
+7:
+8:BBGHDPPG
+MoveCmd { amt: 4, from_column: 5, to_column: 1 }
+0:LBNPN
+1:NVNLNCNLNQWS
+2:MTWRJSC
+3:
+4:
+5:GTMWCHDZJPLHHWMTDQW
+6:GTRDW
+7:
+8:BBGHDPPG
+MoveCmd { amt: 5, from_column: 0, to_column: 4 }
+0:
+1:NVNLNCNLNQWS
+2:MTWRJSC
+3:
+4:LBNPN
+5:GTMWCHDZJPLHHWMTDQW
+6:GTRDW
+7:
+8:BBGHDPPG
+MoveCmd { amt: 10, from_column: 1, to_column: 2 }
+0:
+1:NV
+2:MTWRJSCNLNCNLNQWS
+3:
+4:LBNPN
+5:GTMWCHDZJPLHHWMTDQW
+6:GTRDW
+7:
+8:BBGHDPPG
+MoveCmd { amt: 2, from_column: 8, to_column: 3 }
+0:
+1:NV
+2:MTWRJSCNLNCNLNQWS
+3:PG
+4:LBNPN
+5:GTMWCHDZJPLHHWMTDQW
+6:GTRDW
+7:
+8:BBGHDP
+MoveCmd { amt: 4, from_column: 4, to_column: 7 }
+0:
+1:NV
+2:MTWRJSCNLNCNLNQWS
+3:PG
+4:L
+5:GTMWCHDZJPLHHWMTDQW
+6:GTRDW
+7:BNPN
+8:BBGHDP
+MoveCmd { amt: 2, from_column: 1, to_column: 6 }
+0:
+1:
+2:MTWRJSCNLNCNLNQWS
+3:PG
+4:L
+5:GTMWCHDZJPLHHWMTDQW
+6:GTRDWNV
+7:BNPN
+8:BBGHDP
+MoveCmd { amt: 12, from_column: 5, to_column: 6 }
+0:
+1:
+2:MTWRJSCNLNCNLNQWS
+3:PG
+4:L
+5:GTMWCHD
+6:GTRDWNVZJPLHHWMTDQW
+7:BNPN
+8:BBGHDP
+MoveCmd { amt: 1, from_column: 7, to_column: 1 }
+0:
+1:N
+2:MTWRJSCNLNCNLNQWS
+3:PG
+4:L
+5:GTMWCHD
+6:GTRDWNVZJPLHHWMTDQW
+7:BNP
+8:BBGHDP
+MoveCmd { amt: 10, from_column: 2, to_column: 3 }
+0:
+1:N
+2:MTWRJSC
+3:PGNLNCNLNQWS
+4:L
+5:GTMWCHD
+6:GTRDWNVZJPLHHWMTDQW
+7:BNP
+8:BBGHDP
+MoveCmd { amt: 2, from_column: 2, to_column: 4 }
+0:
+1:N
+2:MTWRJ
+3:PGNLNCNLNQWS
+4:LSC
+5:GTMWCHD
+6:GTRDWNVZJPLHHWMTDQW
+7:BNP
+8:BBGHDP
+MoveCmd { amt: 1, from_column: 2, to_column: 0 }
+JNRSCDWPP
